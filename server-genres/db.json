@@ -1,0 +1,12 @@
+{
+  "genres": [
+    {
+      "value": "terror",
+      "text": "Terror"
+    },
+    {
+      "value": "romance",
+      "text": "Romance"
+    }
+  ]
+}
