@@ -7,6 +7,10 @@
     {
       "value": "romance",
       "text": "Romance"
+    },
+    {
+      "value": "fiction",
+      "text": "Fiction"
     }
   ]
 }
