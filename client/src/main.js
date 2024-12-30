@@ -24,16 +24,20 @@ const fecthGenres = async () => {
 };
 
 genresSelect.addEventListener("change", async (event) => {
-  const genre = event.target.value;
-  const response = await fetch(`${endpointBooks}?genre=${genre}`);
-  booksJson = await response.json();
-  booksSelect.innerHTML = "";
-  booksJson.forEach((book, index) => {
-    const text = index === 0 ? "Select book" : book.name;
-    const option = createOption(text, text);
-    booksSelect.appendChild(option);
-  });
-  img.src = "default.png";
+  try {
+    const genre = event.target.value;
+    const response = await fetch(`${endpointBooks}?genre=${genre}`);
+    booksJson = await response.json();
+    booksSelect.innerHTML = "";
+    booksJson.forEach((book, index) => {
+      const text = index === 0 ? "Select book" : book.name;
+      const option = createOption(text, text);
+      booksSelect.appendChild(option);
+    });
+    img.src = "default.png";
+  } catch (error) {
+    console.error(new Error(error));
+  }
 });
 
 booksSelect.addEventListener("change", (event) => {
