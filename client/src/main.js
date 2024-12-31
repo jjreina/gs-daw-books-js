@@ -1,5 +1,5 @@
 import "./style.css";
-import { createOption } from "./helpers/domHelper";
+import { createOption, cleanSelect } from "./helpers/domHelper";
 import { endpointBooks, endpointGenres } from "./helpers/apis";
 import { parserToGenresClass } from "./helpers/promiseHelper";
 
@@ -25,16 +25,18 @@ const fecthGenres = async () => {
 
 genresSelect.addEventListener("change", async (event) => {
   try {
+    if (event.target.value === "") {
+      cleanSelect(booksSelect, img, "Select book", "default.png");
+      return;
+    }
     const genre = event.target.value;
     const response = await fetch(`${endpointBooks}?genre=${genre}`);
     booksJson = await response.json();
-    booksSelect.innerHTML = "";
-    booksJson.forEach((book, index) => {
-      const text = index === 0 ? "Select book" : book.name;
-      const option = createOption(text, text);
+    cleanSelect(booksSelect, img, "Select book", "default.png");
+    booksJson.forEach((book) => {
+      let option = createOption(book.name, book.name);
       booksSelect.appendChild(option);
     });
-    img.src = "default.png";
   } catch (error) {
     console.error(new Error(error));
   }
