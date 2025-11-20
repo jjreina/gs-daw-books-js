@@ -1,0 +1,5645 @@
+const url = 'https://apidojo-hm-hennes-mauritz-v1.p.rapidapi.com/products/v2/list?country=es&lang=es&page=0&pageSize=10&categoryId=men';
+{
+  "requestDateTime": "2025-11-20T08:33:03.685Z",
+  "responseSource": "Elevate",
+  "pagination": {
+    "currentPage": 1,
+    "nextPageNum": 2,
+    "totalPages": 512
+  },
+  "plpList": {
+    "productList": [
+      {
+        "id": "0970819001",
+        "trackingId": "OzU7IzswOTcwODE5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Sudadera con capucha Loose Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.0970819001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970819001",
+            "url": "/es_es/productpage.0970819001.html",
+            "colorName": "Negro",
+            "colorCode": "272628",
+            "trackingId": "OzU7IzswOTcwODE5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/15/4f/154fc8cea8d1781a1700bcbd90ef1dbe506e4831.jpg"
+          },
+          {
+            "articleId": "0970819127",
+            "url": "/es_es/productpage.0970819127.html",
+            "colorName": "Rojo",
+            "colorCode": "8B313D",
+            "trackingId": "OzU7IzswOTcwODE5MTI3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/0a/4d/0a4dc494667bb947adad5b4b7453793e21bf1c85.jpg"
+          },
+          {
+            "articleId": "0970819114",
+            "url": "/es_es/productpage.0970819114.html",
+            "colorName": "Ciruela",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzswOTcwODE5MTE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/55/9a/559a9289b50884206020332ff999227553cb4e8c.jpg"
+          },
+          {
+            "articleId": "0970819103",
+            "url": "/es_es/productpage.0970819103.html",
+            "colorName": "Blanco",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzU7IzswOTcwODE5MTAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/d5/22/d5222b0c246142ebdc376b35587100e8f7ac23d4.jpg"
+          },
+          {
+            "articleId": "0970819007",
+            "url": "/es_es/productpage.0970819007.html",
+            "colorName": "Gris claro jaspeado",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzU7IzswOTcwODE5MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/b8/5b/b85be7b1fb12ea62271f18c4ce7271138d47b696.jpg"
+          },
+          {
+            "articleId": "0970819116",
+            "url": "/es_es/productpage.0970819116.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzswOTcwODE5MTE2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/dd/6b/dd6b022f57e4776494de78650599b067cc124536.jpg"
+          },
+          {
+            "articleId": "0970819117",
+            "url": "/es_es/productpage.0970819117.html",
+            "colorName": "Azul marino",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzswOTcwODE5MTE3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bc/50/bc50be829fdbc9494d21e6cce5d8dcad84270b51.jpg"
+          },
+          {
+            "articleId": "0970819124",
+            "url": "/es_es/productpage.0970819124.html",
+            "colorName": "Verde caqui oscuro",
+            "colorCode": "46413A",
+            "trackingId": "OzU7IzswOTcwODE5MTI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/83/82/8382674e3d631141f9eeb7effd0305733e2e5cc2.jpg"
+          },
+          {
+            "articleId": "0970819126",
+            "url": "/es_es/productpage.0970819126.html",
+            "colorName": "Marrón oscuro",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzswOTcwODE5MTI2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/8f/5c/8f5cd5043d33bc8b9a14bdc41ca22a9c06b0e62c.jpg"
+          },
+          {
+            "articleId": "0970819132",
+            "url": "/es_es/productpage.0970819132.html",
+            "colorName": "Beige",
+            "colorCode": "AE9E80",
+            "trackingId": "OzU7IzswOTcwODE5MTMyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/01/41/01410ac9244e5d694caccb684c7955e3deccdad3.jpg"
+          },
+          {
+            "articleId": "0970819121",
+            "url": "/es_es/productpage.0970819121.html",
+            "colorName": "Verde bosque oscuro",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzswOTcwODE5MTIxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/13/34/1334bb05a7c4714ad7ac040b9dd2249c11360197.jpg"
+          },
+          {
+            "articleId": "0970819119",
+            "url": "/es_es/productpage.0970819119.html",
+            "colorName": "Azul claro",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzswOTcwODE5MTE5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/c1/ed/c1ed3b6b8b44ab49a6b5da7d8b04c6322028ce46.jpg"
+          },
+          {
+            "articleId": "0970819078",
+            "url": "/es_es/productpage.0970819078.html",
+            "colorName": "Beige grisáceo oscuro",
+            "colorCode": "5C595B",
+            "trackingId": "OzU7IzswOTcwODE5MDc4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/2a/1a/2a1a0c351c0d2769fe699acbb776375084246815.jpg"
+          },
+          {
+            "articleId": "0970819093",
+            "url": "/es_es/productpage.0970819093.html",
+            "colorName": "Burdeos",
+            "colorCode": "5B313D",
+            "trackingId": "OzU7IzswOTcwODE5MDkzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/5a/fa/5afaa4e2ce3da2d273b2c8952ee6a23c163001dd.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/7e/30/7e30f1ae93b0e330eadd05e6fe7cff3473f49c41.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/29/56/2956e7ba449dae391f16d3e7735a61e0a0a6f98c.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/da/e2/dae2087ec54734c74ab94cae263f9522d82399fb.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f1/1f/f11f22afd6cfcd9d2c2d695a07feee394e5c233a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/f9/dd/f9dd5d23c214d9c81800b78a4bf85a97f3bbc215.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Negro",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/e6/78/e678a1f364cba25c0c2d2fc34afe60f74c995fc6.jpg",
+        "colors": "272628",
+        "colourShades": "Carbón",
+        "productImage": "https://image.hm.com/assets/hm/15/4f/154fc8cea8d1781a1700bcbd90ef1dbe506e4831.jpg",
+        "sizes": [
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          },
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "negro_000000",
+        "mainCatCode": "men_hoodiessweatshirts_hoodies"
+      },
+      {
+        "id": "1308076004",
+        "trackingId": "OzU7IzsxMzA4MDc2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Sudadera Loose Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1308076004.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1308076004",
+            "url": "/es_es/productpage.1308076004.html",
+            "colorName": "Marrón",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/0b/b3/0bb316d70df7b3233c865890c170e0dcd92f04a5.jpg"
+          },
+          {
+            "articleId": "1308076001",
+            "url": "/es_es/productpage.1308076001.html",
+            "colorName": "Ciruela",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bf/50/bf507ca3b752e753a8d731e031debddb5b34d59f.jpg"
+          },
+          {
+            "articleId": "1308076013",
+            "url": "/es_es/productpage.1308076013.html",
+            "colorName": "Negro",
+            "colorCode": "272627",
+            "trackingId": "OzU7IzsxMzA4MDc2MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/b9/ee/b9eeaf5073f3c8b681ecbc95746e7ad9ec833763.jpg"
+          },
+          {
+            "articleId": "1308076002",
+            "url": "/es_es/productpage.1308076002.html",
+            "colorName": "Blanco",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/e1/af/e1af2fb516cc23396c57eef32dcd056f20f2df05.jpg"
+          },
+          {
+            "articleId": "1308076003",
+            "url": "/es_es/productpage.1308076003.html",
+            "colorName": "Azul oscuro",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/41/29/41297c5db93e65aec5215d5166a7bb15fa0b10c5.jpg"
+          },
+          {
+            "articleId": "1308076015",
+            "url": "/es_es/productpage.1308076015.html",
+            "colorName": "Rojo",
+            "colorCode": "8B313D",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/ba/66bad61744aae2bb544d5ce6d42f4d723d9fd411.jpg"
+          },
+          {
+            "articleId": "1308076022",
+            "url": "/es_es/productpage.1308076022.html",
+            "colorName": "Verde azulado",
+            "colorCode": "616E73",
+            "trackingId": "OzU7IzsxMzA4MDc2MDIyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/f2/03/f203092bb19b08b254c4aedd5e17cb18d304a05e.jpg"
+          },
+          {
+            "articleId": "1308076014",
+            "url": "/es_es/productpage.1308076014.html",
+            "colorName": "Gris jaspeado",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/1f/2a/1f2a844ca920ac8917e9325bb9d2a42ccde920b1.jpg"
+          },
+          {
+            "articleId": "1308076007",
+            "url": "/es_es/productpage.1308076007.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/90/82/908265eaea9476d9c7746a7aee8a5f8d5a682663.jpg"
+          },
+          {
+            "articleId": "1308076008",
+            "url": "/es_es/productpage.1308076008.html",
+            "colorName": "Verde",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/42/9542f4b30032cb5f4a7b63bcd3a5f1fc9c7e53cc.jpg"
+          },
+          {
+            "articleId": "1308076010",
+            "url": "/es_es/productpage.1308076010.html",
+            "colorName": "Azul claro",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzsxMzA4MDc2MDEwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/42/70/427071fb74f5e95f6d98ba168713574853859dac.jpg"
+          },
+          {
+            "articleId": "1308076011",
+            "url": "/es_es/productpage.1308076011.html",
+            "colorName": "Verde",
+            "colorCode": "46413A",
+            "trackingId": "OzU7IzsxMzA4MDc2MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/8e/ae/8eae9b8b7e059cb05a6478ffbd7d7703088dd34e.jpg"
+          },
+          {
+            "articleId": "1308076009",
+            "url": "/es_es/productpage.1308076009.html",
+            "colorName": "Rosa",
+            "colorCode": "BEA2B1",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/74/39/7439e155837e29847e7519deac25f5035bafde27.jpg"
+          },
+          {
+            "articleId": "1308076018",
+            "url": "/es_es/productpage.1308076018.html",
+            "colorName": "Azul empolvado",
+            "colorCode": "465161",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/f7/35/f73560a83ae369266fcf623cc8ce320e919742d9.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/24/f9/24f98598741c4c7823b19d011623858f6d23751a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9e/4b/9e4b01438dc7d0938798a2fd62a79487ae171dea.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/6c/65/6c6591187386157a2878f7e8b199de5e2cbf7b71.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a3/56/a356c3fc64a3f4869cd894e92263a628137e5cf0.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Marrón",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/43/59/4359477ffc020cada72261cf0cd17b1e07ec0e31.jpg",
+        "colors": "3F3838",
+        "productImage": "https://image.hm.com/assets/hm/0b/b3/0bb316d70df7b3233c865890c170e0dcd92f04a5.jpg",
+        "sizes": [
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          },
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "marrón_a52a2a",
+        "mainCatCode": "men_hoodiessweatshirts_sweatshirts"
+      },
+      {
+        "id": "1308076001",
+        "trackingId": "OzU7IzsxMzA4MDc2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Sudadera Loose Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1308076001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1308076001",
+            "url": "/es_es/productpage.1308076001.html",
+            "colorName": "Ciruela",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bf/50/bf507ca3b752e753a8d731e031debddb5b34d59f.jpg"
+          },
+          {
+            "articleId": "1308076004",
+            "url": "/es_es/productpage.1308076004.html",
+            "colorName": "Marrón",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/0b/b3/0bb316d70df7b3233c865890c170e0dcd92f04a5.jpg"
+          },
+          {
+            "articleId": "1308076013",
+            "url": "/es_es/productpage.1308076013.html",
+            "colorName": "Negro",
+            "colorCode": "272627",
+            "trackingId": "OzU7IzsxMzA4MDc2MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/b9/ee/b9eeaf5073f3c8b681ecbc95746e7ad9ec833763.jpg"
+          },
+          {
+            "articleId": "1308076002",
+            "url": "/es_es/productpage.1308076002.html",
+            "colorName": "Blanco",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/e1/af/e1af2fb516cc23396c57eef32dcd056f20f2df05.jpg"
+          },
+          {
+            "articleId": "1308076003",
+            "url": "/es_es/productpage.1308076003.html",
+            "colorName": "Azul oscuro",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/41/29/41297c5db93e65aec5215d5166a7bb15fa0b10c5.jpg"
+          },
+          {
+            "articleId": "1308076015",
+            "url": "/es_es/productpage.1308076015.html",
+            "colorName": "Rojo",
+            "colorCode": "8B313D",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/ba/66bad61744aae2bb544d5ce6d42f4d723d9fd411.jpg"
+          },
+          {
+            "articleId": "1308076022",
+            "url": "/es_es/productpage.1308076022.html",
+            "colorName": "Verde azulado",
+            "colorCode": "616E73",
+            "trackingId": "OzU7IzsxMzA4MDc2MDIyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/f2/03/f203092bb19b08b254c4aedd5e17cb18d304a05e.jpg"
+          },
+          {
+            "articleId": "1308076014",
+            "url": "/es_es/productpage.1308076014.html",
+            "colorName": "Gris jaspeado",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/1f/2a/1f2a844ca920ac8917e9325bb9d2a42ccde920b1.jpg"
+          },
+          {
+            "articleId": "1308076007",
+            "url": "/es_es/productpage.1308076007.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/90/82/908265eaea9476d9c7746a7aee8a5f8d5a682663.jpg"
+          },
+          {
+            "articleId": "1308076008",
+            "url": "/es_es/productpage.1308076008.html",
+            "colorName": "Verde",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/42/9542f4b30032cb5f4a7b63bcd3a5f1fc9c7e53cc.jpg"
+          },
+          {
+            "articleId": "1308076010",
+            "url": "/es_es/productpage.1308076010.html",
+            "colorName": "Azul claro",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzsxMzA4MDc2MDEwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/42/70/427071fb74f5e95f6d98ba168713574853859dac.jpg"
+          },
+          {
+            "articleId": "1308076011",
+            "url": "/es_es/productpage.1308076011.html",
+            "colorName": "Verde",
+            "colorCode": "46413A",
+            "trackingId": "OzU7IzsxMzA4MDc2MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/8e/ae/8eae9b8b7e059cb05a6478ffbd7d7703088dd34e.jpg"
+          },
+          {
+            "articleId": "1308076009",
+            "url": "/es_es/productpage.1308076009.html",
+            "colorName": "Rosa",
+            "colorCode": "BEA2B1",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/74/39/7439e155837e29847e7519deac25f5035bafde27.jpg"
+          },
+          {
+            "articleId": "1308076018",
+            "url": "/es_es/productpage.1308076018.html",
+            "colorName": "Azul empolvado",
+            "colorCode": "465161",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/f7/35/f73560a83ae369266fcf623cc8ce320e919742d9.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/ec/1e/ec1efc363a464c016ff5ab4e4a99d49d544d5edc.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1d/41/1d41255a5d349ee9d9f13e184186c95d1dfcd550.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/13/c3/13c385a1fc7a1964afdc459fa49bdc37b77280ff.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Ciruela",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/e8/09/e8096fe82fd7caa8bf0b24a923a5178d54885fd9.jpg",
+        "colors": "463B40",
+        "colourShades": "Morado|Ciruela",
+        "productImage": "https://image.hm.com/assets/hm/bf/50/bf507ca3b752e753a8d731e031debddb5b34d59f.jpg",
+        "sizes": [
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          },
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "lila_800080",
+        "mainCatCode": "men_hoodiessweatshirts_sweatshirts"
+      },
+      {
+        "id": "0945531001",
+        "trackingId": "OzU7IzswOTQ1NTMxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Pack de 3 camisetas Regular Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.0945531001.html",
+        "showPriceMarker": false,
+        "comparativePrice": 6.66,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0945531001",
+            "url": "/es_es/productpage.0945531001.html",
+            "colorName": "Blanco",
+            "colorCode": "FFFFFF",
+            "trackingId": "OzU7IzswOTQ1NTMxMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/70/06/7006e71e95a2f1d848b6f96366fd75ac2d031d38.jpg"
+          },
+          {
+            "articleId": "0945531012",
+            "url": "/es_es/productpage.0945531012.html",
+            "colorName": "Negro",
+            "colorCode": "272628",
+            "trackingId": "OzU7IzswOTQ1NTMxMDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/19/10/19108b8f7717f2afbeb05c645a5fe6640b961445.jpg"
+          },
+          {
+            "articleId": "0945531071",
+            "url": "/es_es/productpage.0945531071.html",
+            "colorName": "Verde oscuro",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzswOTQ1NTMxMDcxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bb/3b/bb3b1313b94f0db23fa8a8c19aad9fe1ec8095a2.jpg"
+          },
+          {
+            "articleId": "0945531065",
+            "url": "/es_es/productpage.0945531065.html",
+            "colorName": "Gris/Burdeos/Negro",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzswOTQ1NTMxMDY1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/fa/45/fa451c5b1c5c60bbbbaf750a05af04b41a486bda.jpg"
+          },
+          {
+            "articleId": "0945531068",
+            "url": "/es_es/productpage.0945531068.html",
+            "colorName": "Azul marino/Gris",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzswOTQ1NTMxMDY4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/c7/f0/c7f05a1dc47c2d719ab0f9beaa27becc95ad3c49.jpg"
+          },
+          {
+            "articleId": "0945531067",
+            "url": "/es_es/productpage.0945531067.html",
+            "colorName": "Azul/Beige",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzswOTQ1NTMxMDY3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/6f/15/6f156a9bdcd72598b4e470dd68a8e154b1844b50.jpg"
+          },
+          {
+            "articleId": "0945531064",
+            "url": "/es_es/productpage.0945531064.html",
+            "colorName": "Negro/Marrón/Blanco",
+            "colorCode": "7B5444",
+            "trackingId": "OzU7IzswOTQ1NTMxMDY0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/b7/0c/b70c6053e915e095604944f1f99a7f34e4d1684a.jpg"
+          },
+          {
+            "articleId": "0945531066",
+            "url": "/es_es/productpage.0945531066.html",
+            "colorName": "Rosa/Marrón",
+            "colorCode": "BEA2B1",
+            "trackingId": "OzU7IzswOTQ1NTMxMDY2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/74/0f/740f4e99c8d51bf012d91bb7a1ccd5b7f0b3820a.jpg"
+          },
+          {
+            "articleId": "0945531052",
+            "url": "/es_es/productpage.0945531052.html",
+            "colorName": "Gris jaspeado/Azul marino",
+            "colorCode": "FFFFFF",
+            "trackingId": "OzU7IzswOTQ1NTMxMDUyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/ed/ba/edba2cccccaef6290d488b95ba7443ae6bbc0125.jpg"
+          },
+          {
+            "articleId": "0945531063",
+            "url": "/es_es/productpage.0945531063.html",
+            "colorName": "Verde salvia",
+            "colorCode": "A4AEA7",
+            "trackingId": "OzU7IzswOTQ1NTMxMDYzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/2e/aa/2eaa8eccc8cdf723b5d7724e9c41a9ee8c4f16fe.jpg"
+          },
+          {
+            "articleId": "0945531058",
+            "url": "/es_es/productpage.0945531058.html",
+            "colorName": "Blanco/Amarillo/Verde",
+            "colorCode": "BFB381",
+            "trackingId": "OzU7IzswOTQ1NTMxMDU4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/60/8b/608b068dbff10762265855fb0ada676c47bcc428.jpg"
+          },
+          {
+            "articleId": "0945531057",
+            "url": "/es_es/productpage.0945531057.html",
+            "colorName": "Beige/Marrón/Gris",
+            "colorCode": "C0BBAD",
+            "trackingId": "OzU7IzswOTQ1NTMxMDU3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/e4/89/e48924ece823f919263814643ee0aa14e5557bee.jpg"
+          },
+          {
+            "articleId": "0945531060",
+            "url": "/es_es/productpage.0945531060.html",
+            "colorName": "Blanco/Marrón",
+            "colorCode": "594C43",
+            "trackingId": "OzU7IzswOTQ1NTMxMDYwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/25/d6/25d6724a4e4191a8a42167628a72c586c980fca3.jpg"
+          },
+          {
+            "articleId": "0945531062",
+            "url": "/es_es/productpage.0945531062.html",
+            "colorName": "Negro/Verde/Beige",
+            "colorCode": "919587",
+            "trackingId": "OzU7IzswOTQ1NTMxMDYyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/a5/ff/a5ff7cb376f058e2361f975c18109fe1302f4caa.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/3d/6a/3d6af4205ca9a7528dcd9f7a0e4c1d4c34e1f919.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Blanco",
+        "quantity": "3",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/70/06/7006e71e95a2f1d848b6f96366fd75ac2d031d38.jpg",
+        "colors": "FFFFFF",
+        "isMultipack": true,
+        "productImage": "https://image.hm.com/assets/hm/70/06/7006e71e95a2f1d848b6f96366fd75ac2d031d38.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          },
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blanco_ffffff",
+        "comparativeFormattedPrice": "6,66 €",
+        "mainCatCode": "men_tshirtstanks_multipacks"
+      },
+      {
+        "id": "0970819127",
+        "trackingId": "OzU7IzswOTcwODE5MTI3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Sudadera con capucha Loose Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.0970819127.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970819127",
+            "url": "/es_es/productpage.0970819127.html",
+            "colorName": "Rojo",
+            "colorCode": "8B313D",
+            "trackingId": "OzU7IzswOTcwODE5MTI3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/0a/4d/0a4dc494667bb947adad5b4b7453793e21bf1c85.jpg"
+          },
+          {
+            "articleId": "0970819001",
+            "url": "/es_es/productpage.0970819001.html",
+            "colorName": "Negro",
+            "colorCode": "272628",
+            "trackingId": "OzU7IzswOTcwODE5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/15/4f/154fc8cea8d1781a1700bcbd90ef1dbe506e4831.jpg"
+          },
+          {
+            "articleId": "0970819114",
+            "url": "/es_es/productpage.0970819114.html",
+            "colorName": "Ciruela",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzswOTcwODE5MTE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/55/9a/559a9289b50884206020332ff999227553cb4e8c.jpg"
+          },
+          {
+            "articleId": "0970819103",
+            "url": "/es_es/productpage.0970819103.html",
+            "colorName": "Blanco",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzU7IzswOTcwODE5MTAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/d5/22/d5222b0c246142ebdc376b35587100e8f7ac23d4.jpg"
+          },
+          {
+            "articleId": "0970819007",
+            "url": "/es_es/productpage.0970819007.html",
+            "colorName": "Gris claro jaspeado",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzU7IzswOTcwODE5MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/b8/5b/b85be7b1fb12ea62271f18c4ce7271138d47b696.jpg"
+          },
+          {
+            "articleId": "0970819116",
+            "url": "/es_es/productpage.0970819116.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzswOTcwODE5MTE2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/dd/6b/dd6b022f57e4776494de78650599b067cc124536.jpg"
+          },
+          {
+            "articleId": "0970819117",
+            "url": "/es_es/productpage.0970819117.html",
+            "colorName": "Azul marino",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzswOTcwODE5MTE3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bc/50/bc50be829fdbc9494d21e6cce5d8dcad84270b51.jpg"
+          },
+          {
+            "articleId": "0970819124",
+            "url": "/es_es/productpage.0970819124.html",
+            "colorName": "Verde caqui oscuro",
+            "colorCode": "46413A",
+            "trackingId": "OzU7IzswOTcwODE5MTI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/83/82/8382674e3d631141f9eeb7effd0305733e2e5cc2.jpg"
+          },
+          {
+            "articleId": "0970819126",
+            "url": "/es_es/productpage.0970819126.html",
+            "colorName": "Marrón oscuro",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzswOTcwODE5MTI2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/8f/5c/8f5cd5043d33bc8b9a14bdc41ca22a9c06b0e62c.jpg"
+          },
+          {
+            "articleId": "0970819132",
+            "url": "/es_es/productpage.0970819132.html",
+            "colorName": "Beige",
+            "colorCode": "AE9E80",
+            "trackingId": "OzU7IzswOTcwODE5MTMyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/01/41/01410ac9244e5d694caccb684c7955e3deccdad3.jpg"
+          },
+          {
+            "articleId": "0970819121",
+            "url": "/es_es/productpage.0970819121.html",
+            "colorName": "Verde bosque oscuro",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzswOTcwODE5MTIxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/13/34/1334bb05a7c4714ad7ac040b9dd2249c11360197.jpg"
+          },
+          {
+            "articleId": "0970819119",
+            "url": "/es_es/productpage.0970819119.html",
+            "colorName": "Azul claro",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzswOTcwODE5MTE5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/c1/ed/c1ed3b6b8b44ab49a6b5da7d8b04c6322028ce46.jpg"
+          },
+          {
+            "articleId": "0970819078",
+            "url": "/es_es/productpage.0970819078.html",
+            "colorName": "Beige grisáceo oscuro",
+            "colorCode": "5C595B",
+            "trackingId": "OzU7IzswOTcwODE5MDc4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/2a/1a/2a1a0c351c0d2769fe699acbb776375084246815.jpg"
+          },
+          {
+            "articleId": "0970819093",
+            "url": "/es_es/productpage.0970819093.html",
+            "colorName": "Burdeos",
+            "colorCode": "5B313D",
+            "trackingId": "OzU7IzswOTcwODE5MDkzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/5a/fa/5afaa4e2ce3da2d273b2c8952ee6a23c163001dd.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/cb/a3/cba3354093adff82906fae67e4b1bb9a7d9df5b9.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/40/9e/409e9f353b0c766bc8b47ecc8ad72507ee970787.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/56/57/5657139e95bc905d36186958c6acd3e8aa0ed44a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c2/d4/c2d4140b0cdef8c08bc2cb115050223ffe523df4.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Rojo",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/01/42/014232aff8a96795199e5ab423c50616a5cbe08a.jpg",
+        "colors": "8B313D",
+        "colourShades": "Rojo rubí",
+        "productImage": "https://image.hm.com/assets/hm/0a/4d/0a4dc494667bb947adad5b4b7453793e21bf1c85.jpg",
+        "sizes": [
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          },
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          }
+        ],
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "rojo_ff0000",
+        "mainCatCode": "men_hoodiessweatshirts_hoodies",
+        "sellingAttribute": "Nueva Colección"
+      },
+      {
+        "id": "1308076013",
+        "trackingId": "OzU7IzsxMzA4MDc2MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Sudadera Loose Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1308076013.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1308076013",
+            "url": "/es_es/productpage.1308076013.html",
+            "colorName": "Negro",
+            "colorCode": "272627",
+            "trackingId": "OzU7IzsxMzA4MDc2MDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/b9/ee/b9eeaf5073f3c8b681ecbc95746e7ad9ec833763.jpg"
+          },
+          {
+            "articleId": "1308076004",
+            "url": "/es_es/productpage.1308076004.html",
+            "colorName": "Marrón",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/0b/b3/0bb316d70df7b3233c865890c170e0dcd92f04a5.jpg"
+          },
+          {
+            "articleId": "1308076001",
+            "url": "/es_es/productpage.1308076001.html",
+            "colorName": "Ciruela",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bf/50/bf507ca3b752e753a8d731e031debddb5b34d59f.jpg"
+          },
+          {
+            "articleId": "1308076002",
+            "url": "/es_es/productpage.1308076002.html",
+            "colorName": "Blanco",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/e1/af/e1af2fb516cc23396c57eef32dcd056f20f2df05.jpg"
+          },
+          {
+            "articleId": "1308076003",
+            "url": "/es_es/productpage.1308076003.html",
+            "colorName": "Azul oscuro",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzsxMzA4MDc2MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/41/29/41297c5db93e65aec5215d5166a7bb15fa0b10c5.jpg"
+          },
+          {
+            "articleId": "1308076015",
+            "url": "/es_es/productpage.1308076015.html",
+            "colorName": "Rojo",
+            "colorCode": "8B313D",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/ba/66bad61744aae2bb544d5ce6d42f4d723d9fd411.jpg"
+          },
+          {
+            "articleId": "1308076022",
+            "url": "/es_es/productpage.1308076022.html",
+            "colorName": "Verde azulado",
+            "colorCode": "616E73",
+            "trackingId": "OzU7IzsxMzA4MDc2MDIyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/f2/03/f203092bb19b08b254c4aedd5e17cb18d304a05e.jpg"
+          },
+          {
+            "articleId": "1308076014",
+            "url": "/es_es/productpage.1308076014.html",
+            "colorName": "Gris jaspeado",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/1f/2a/1f2a844ca920ac8917e9325bb9d2a42ccde920b1.jpg"
+          },
+          {
+            "articleId": "1308076007",
+            "url": "/es_es/productpage.1308076007.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/90/82/908265eaea9476d9c7746a7aee8a5f8d5a682663.jpg"
+          },
+          {
+            "articleId": "1308076008",
+            "url": "/es_es/productpage.1308076008.html",
+            "colorName": "Verde",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/95/42/9542f4b30032cb5f4a7b63bcd3a5f1fc9c7e53cc.jpg"
+          },
+          {
+            "articleId": "1308076010",
+            "url": "/es_es/productpage.1308076010.html",
+            "colorName": "Azul claro",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzsxMzA4MDc2MDEwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/42/70/427071fb74f5e95f6d98ba168713574853859dac.jpg"
+          },
+          {
+            "articleId": "1308076011",
+            "url": "/es_es/productpage.1308076011.html",
+            "colorName": "Verde",
+            "colorCode": "46413A",
+            "trackingId": "OzU7IzsxMzA4MDc2MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/8e/ae/8eae9b8b7e059cb05a6478ffbd7d7703088dd34e.jpg"
+          },
+          {
+            "articleId": "1308076009",
+            "url": "/es_es/productpage.1308076009.html",
+            "colorName": "Rosa",
+            "colorCode": "BEA2B1",
+            "trackingId": "OzU7IzsxMzA4MDc2MDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/74/39/7439e155837e29847e7519deac25f5035bafde27.jpg"
+          },
+          {
+            "articleId": "1308076018",
+            "url": "/es_es/productpage.1308076018.html",
+            "colorName": "Azul empolvado",
+            "colorCode": "465161",
+            "trackingId": "OzU7IzsxMzA4MDc2MDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/f7/35/f73560a83ae369266fcf623cc8ce320e919742d9.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/75/40/7540f14f862b584bdf745b7ea3a0b665aceece66.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/d9/56/d95649ab82f8e244c3508c7d8cf1bed8d4ece2ac.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e8/1e/e81ee368fd00198c48194c64d339dccf09a7f244.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/cf/7b/cf7bc1dbc6d4472d7f1b621a376a6d6162dd2d81.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Negro",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/cf/e8/cfe80a3e35d701c42ff0cf38b2c56b199b2c1f46.jpg",
+        "colors": "272627",
+        "colourShades": "Carbón",
+        "productImage": "https://image.hm.com/assets/hm/b9/ee/b9eeaf5073f3c8b681ecbc95746e7ad9ec833763.jpg",
+        "sizes": [
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          },
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "negro_000000",
+        "mainCatCode": "men_hoodiessweatshirts_sweatshirts"
+      },
+      {
+        "id": "1320997001",
+        "trackingId": "OzU7IzsxMzIwOTk3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Pantalón de chándal Regular Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1320997001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 27.99,
+            "minPrice": 27.99,
+            "maxPrice": 27.99,
+            "formattedPrice": "27,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1320997001",
+            "url": "/es_es/productpage.1320997001.html",
+            "colorName": "Negro",
+            "colorCode": "272627",
+            "trackingId": "OzU7IzsxMzIwOTk3MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/3d/14/3d1420cbe1f39ab021958a7ace0b9c1df7592b10.jpg"
+          },
+          {
+            "articleId": "1320997003",
+            "url": "/es_es/productpage.1320997003.html",
+            "colorName": "Azul oscuro",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzsxMzIwOTk3MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/81/c3/81c3f84bb46d23332ba9d804f8fa974a2ecfe018.jpg"
+          },
+          {
+            "articleId": "1320997002",
+            "url": "/es_es/productpage.1320997002.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzsxMzIwOTk3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/62/7e/627e457cfac6ae46bca004daa0da988e381dd912.jpg"
+          },
+          {
+            "articleId": "1320997004",
+            "url": "/es_es/productpage.1320997004.html",
+            "colorName": "Marrón oscuro",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzsxMzIwOTk3MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/91/48/914810845f34005bc4b8dce194419713891c24ee.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/97/60/976065ceeae613c83621453f030a5e4241d94f44.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/34/8b/348bb6ca43441b6b4691d641b5b40370f8391aa4.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/22/3b/223b98008cb3292057cd2f15e5e82da16e7c8e9e.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/82/48/82480b85bf1492e1f764f85859e65c13ac1795df.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c9/a5/c9a551e33c58e8219a86ae732b08571ae2596ccb.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Negro",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/57/9e/579eb0c0a5afc2ad19124bd9816f9b509d986eeb.jpg",
+        "colors": "272627",
+        "colourShades": "Carbón",
+        "productImage": "https://image.hm.com/assets/hm/3d/14/3d1420cbe1f39ab021958a7ace0b9c1df7592b10.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          }
+        ],
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "negro_000000",
+        "mainCatCode": "men_trousers_trousers_regular_all",
+        "sellingAttribute": "Nueva Colección"
+      },
+      {
+        "id": "0970819114",
+        "trackingId": "OzU7IzswOTcwODE5MTE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Sudadera con capucha Loose Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.0970819114.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970819114",
+            "url": "/es_es/productpage.0970819114.html",
+            "colorName": "Ciruela",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzswOTcwODE5MTE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/55/9a/559a9289b50884206020332ff999227553cb4e8c.jpg"
+          },
+          {
+            "articleId": "0970819001",
+            "url": "/es_es/productpage.0970819001.html",
+            "colorName": "Negro",
+            "colorCode": "272628",
+            "trackingId": "OzU7IzswOTcwODE5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/15/4f/154fc8cea8d1781a1700bcbd90ef1dbe506e4831.jpg"
+          },
+          {
+            "articleId": "0970819127",
+            "url": "/es_es/productpage.0970819127.html",
+            "colorName": "Rojo",
+            "colorCode": "8B313D",
+            "trackingId": "OzU7IzswOTcwODE5MTI3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/0a/4d/0a4dc494667bb947adad5b4b7453793e21bf1c85.jpg"
+          },
+          {
+            "articleId": "0970819103",
+            "url": "/es_es/productpage.0970819103.html",
+            "colorName": "Blanco",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzU7IzswOTcwODE5MTAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/d5/22/d5222b0c246142ebdc376b35587100e8f7ac23d4.jpg"
+          },
+          {
+            "articleId": "0970819007",
+            "url": "/es_es/productpage.0970819007.html",
+            "colorName": "Gris claro jaspeado",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzU7IzswOTcwODE5MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/b8/5b/b85be7b1fb12ea62271f18c4ce7271138d47b696.jpg"
+          },
+          {
+            "articleId": "0970819116",
+            "url": "/es_es/productpage.0970819116.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzswOTcwODE5MTE2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/dd/6b/dd6b022f57e4776494de78650599b067cc124536.jpg"
+          },
+          {
+            "articleId": "0970819117",
+            "url": "/es_es/productpage.0970819117.html",
+            "colorName": "Azul marino",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzswOTcwODE5MTE3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bc/50/bc50be829fdbc9494d21e6cce5d8dcad84270b51.jpg"
+          },
+          {
+            "articleId": "0970819124",
+            "url": "/es_es/productpage.0970819124.html",
+            "colorName": "Verde caqui oscuro",
+            "colorCode": "46413A",
+            "trackingId": "OzU7IzswOTcwODE5MTI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/83/82/8382674e3d631141f9eeb7effd0305733e2e5cc2.jpg"
+          },
+          {
+            "articleId": "0970819126",
+            "url": "/es_es/productpage.0970819126.html",
+            "colorName": "Marrón oscuro",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzswOTcwODE5MTI2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/8f/5c/8f5cd5043d33bc8b9a14bdc41ca22a9c06b0e62c.jpg"
+          },
+          {
+            "articleId": "0970819132",
+            "url": "/es_es/productpage.0970819132.html",
+            "colorName": "Beige",
+            "colorCode": "AE9E80",
+            "trackingId": "OzU7IzswOTcwODE5MTMyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/01/41/01410ac9244e5d694caccb684c7955e3deccdad3.jpg"
+          },
+          {
+            "articleId": "0970819121",
+            "url": "/es_es/productpage.0970819121.html",
+            "colorName": "Verde bosque oscuro",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzswOTcwODE5MTIxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/13/34/1334bb05a7c4714ad7ac040b9dd2249c11360197.jpg"
+          },
+          {
+            "articleId": "0970819119",
+            "url": "/es_es/productpage.0970819119.html",
+            "colorName": "Azul claro",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzswOTcwODE5MTE5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/c1/ed/c1ed3b6b8b44ab49a6b5da7d8b04c6322028ce46.jpg"
+          },
+          {
+            "articleId": "0970819078",
+            "url": "/es_es/productpage.0970819078.html",
+            "colorName": "Beige grisáceo oscuro",
+            "colorCode": "5C595B",
+            "trackingId": "OzU7IzswOTcwODE5MDc4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/2a/1a/2a1a0c351c0d2769fe699acbb776375084246815.jpg"
+          },
+          {
+            "articleId": "0970819093",
+            "url": "/es_es/productpage.0970819093.html",
+            "colorName": "Burdeos",
+            "colorCode": "5B313D",
+            "trackingId": "OzU7IzswOTcwODE5MDkzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/5a/fa/5afaa4e2ce3da2d273b2c8952ee6a23c163001dd.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/02/29/0229963017fcb940a5b9893a770024c1509ad212.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/35/7f/357fb8ffef4eb9aed5a012cddce8e79f6fa12d7b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/7e/b6/7eb68daa3c4e1793c2010372e7782ac76f128afb.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/b1/f3/b1f33da094151dbe9bdfc0f301979e966d548fb0.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Ciruela",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/db/4d/db4de49bdbdb1a0f2e856edda6c237d0575a36ad.jpg",
+        "colors": "463B40",
+        "colourShades": "Morado|Ciruela",
+        "productImage": "https://image.hm.com/assets/hm/55/9a/559a9289b50884206020332ff999227553cb4e8c.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          },
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "lila_800080",
+        "mainCatCode": "men_hoodiessweatshirts_hoodies"
+      },
+      {
+        "id": "0970819103",
+        "trackingId": "OzU7IzswOTcwODE5MTAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Sudadera con capucha Loose Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.0970819103.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970819103",
+            "url": "/es_es/productpage.0970819103.html",
+            "colorName": "Blanco",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzU7IzswOTcwODE5MTAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/d5/22/d5222b0c246142ebdc376b35587100e8f7ac23d4.jpg"
+          },
+          {
+            "articleId": "0970819001",
+            "url": "/es_es/productpage.0970819001.html",
+            "colorName": "Negro",
+            "colorCode": "272628",
+            "trackingId": "OzU7IzswOTcwODE5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/15/4f/154fc8cea8d1781a1700bcbd90ef1dbe506e4831.jpg"
+          },
+          {
+            "articleId": "0970819127",
+            "url": "/es_es/productpage.0970819127.html",
+            "colorName": "Rojo",
+            "colorCode": "8B313D",
+            "trackingId": "OzU7IzswOTcwODE5MTI3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/0a/4d/0a4dc494667bb947adad5b4b7453793e21bf1c85.jpg"
+          },
+          {
+            "articleId": "0970819114",
+            "url": "/es_es/productpage.0970819114.html",
+            "colorName": "Ciruela",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzswOTcwODE5MTE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/55/9a/559a9289b50884206020332ff999227553cb4e8c.jpg"
+          },
+          {
+            "articleId": "0970819007",
+            "url": "/es_es/productpage.0970819007.html",
+            "colorName": "Gris claro jaspeado",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzU7IzswOTcwODE5MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/b8/5b/b85be7b1fb12ea62271f18c4ce7271138d47b696.jpg"
+          },
+          {
+            "articleId": "0970819116",
+            "url": "/es_es/productpage.0970819116.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzswOTcwODE5MTE2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/dd/6b/dd6b022f57e4776494de78650599b067cc124536.jpg"
+          },
+          {
+            "articleId": "0970819117",
+            "url": "/es_es/productpage.0970819117.html",
+            "colorName": "Azul marino",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzswOTcwODE5MTE3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bc/50/bc50be829fdbc9494d21e6cce5d8dcad84270b51.jpg"
+          },
+          {
+            "articleId": "0970819124",
+            "url": "/es_es/productpage.0970819124.html",
+            "colorName": "Verde caqui oscuro",
+            "colorCode": "46413A",
+            "trackingId": "OzU7IzswOTcwODE5MTI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/83/82/8382674e3d631141f9eeb7effd0305733e2e5cc2.jpg"
+          },
+          {
+            "articleId": "0970819126",
+            "url": "/es_es/productpage.0970819126.html",
+            "colorName": "Marrón oscuro",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzswOTcwODE5MTI2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/8f/5c/8f5cd5043d33bc8b9a14bdc41ca22a9c06b0e62c.jpg"
+          },
+          {
+            "articleId": "0970819132",
+            "url": "/es_es/productpage.0970819132.html",
+            "colorName": "Beige",
+            "colorCode": "AE9E80",
+            "trackingId": "OzU7IzswOTcwODE5MTMyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/01/41/01410ac9244e5d694caccb684c7955e3deccdad3.jpg"
+          },
+          {
+            "articleId": "0970819121",
+            "url": "/es_es/productpage.0970819121.html",
+            "colorName": "Verde bosque oscuro",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzswOTcwODE5MTIxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/13/34/1334bb05a7c4714ad7ac040b9dd2249c11360197.jpg"
+          },
+          {
+            "articleId": "0970819119",
+            "url": "/es_es/productpage.0970819119.html",
+            "colorName": "Azul claro",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzswOTcwODE5MTE5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/c1/ed/c1ed3b6b8b44ab49a6b5da7d8b04c6322028ce46.jpg"
+          },
+          {
+            "articleId": "0970819078",
+            "url": "/es_es/productpage.0970819078.html",
+            "colorName": "Beige grisáceo oscuro",
+            "colorCode": "5C595B",
+            "trackingId": "OzU7IzswOTcwODE5MDc4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/2a/1a/2a1a0c351c0d2769fe699acbb776375084246815.jpg"
+          },
+          {
+            "articleId": "0970819093",
+            "url": "/es_es/productpage.0970819093.html",
+            "colorName": "Burdeos",
+            "colorCode": "5B313D",
+            "trackingId": "OzU7IzswOTcwODE5MDkzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/5a/fa/5afaa4e2ce3da2d273b2c8952ee6a23c163001dd.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/87/cb/87cbb3c498472d65fab2ad819e1437999b3ecf8b.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/df/0c/df0c334ddbd4d4cdefa6d0f44187746bb058ee3c.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/ed/39/ed392d7f33a4ac08a559884d5f6e620b5fca7e59.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/a3/c0/a3c0ec95a7e6500128978581f9dcf3ed71a13e07.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/bf/8f/bf8f420861dd78e8f84609b5fb2f14b816febd24.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Blanco",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/93/9a/939a7f4d9fe03cc39e7aa3a73914b2d5e4518d65.jpg",
+        "colors": "F4F3E9",
+        "colourShades": "Crema|Blanco grisáceo|Marfil|Gris blanquecino",
+        "productImage": "https://image.hm.com/assets/hm/d5/22/d5222b0c246142ebdc376b35587100e8f7ac23d4.jpg",
+        "sizes": [
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          },
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blanco_ffffff",
+        "mainCatCode": "men_hoodiessweatshirts_hoodies"
+      },
+      {
+        "id": "0970819007",
+        "trackingId": "OzU7IzswOTcwODE5MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+        "productName": "Sudadera con capucha Loose Fit",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.0970819007.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 19.99,
+            "minPrice": 19.99,
+            "maxPrice": 19.99,
+            "formattedPrice": "19,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "0970819007",
+            "url": "/es_es/productpage.0970819007.html",
+            "colorName": "Gris claro jaspeado",
+            "colorCode": "AFAFAF",
+            "trackingId": "OzU7IzswOTcwODE5MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/b8/5b/b85be7b1fb12ea62271f18c4ce7271138d47b696.jpg"
+          },
+          {
+            "articleId": "0970819001",
+            "url": "/es_es/productpage.0970819001.html",
+            "colorName": "Negro",
+            "colorCode": "272628",
+            "trackingId": "OzU7IzswOTcwODE5MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/15/4f/154fc8cea8d1781a1700bcbd90ef1dbe506e4831.jpg"
+          },
+          {
+            "articleId": "0970819127",
+            "url": "/es_es/productpage.0970819127.html",
+            "colorName": "Rojo",
+            "colorCode": "8B313D",
+            "trackingId": "OzU7IzswOTcwODE5MTI3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/0a/4d/0a4dc494667bb947adad5b4b7453793e21bf1c85.jpg"
+          },
+          {
+            "articleId": "0970819114",
+            "url": "/es_es/productpage.0970819114.html",
+            "colorName": "Ciruela",
+            "colorCode": "463B40",
+            "trackingId": "OzU7IzswOTcwODE5MTE0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/55/9a/559a9289b50884206020332ff999227553cb4e8c.jpg"
+          },
+          {
+            "articleId": "0970819103",
+            "url": "/es_es/productpage.0970819103.html",
+            "colorName": "Blanco",
+            "colorCode": "F4F3E9",
+            "trackingId": "OzU7IzswOTcwODE5MTAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/d5/22/d5222b0c246142ebdc376b35587100e8f7ac23d4.jpg"
+          },
+          {
+            "articleId": "0970819116",
+            "url": "/es_es/productpage.0970819116.html",
+            "colorName": "Gris oscuro",
+            "colorCode": "5B5E62",
+            "trackingId": "OzU7IzswOTcwODE5MTE2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/dd/6b/dd6b022f57e4776494de78650599b067cc124536.jpg"
+          },
+          {
+            "articleId": "0970819117",
+            "url": "/es_es/productpage.0970819117.html",
+            "colorName": "Azul marino",
+            "colorCode": "2B2C32",
+            "trackingId": "OzU7IzswOTcwODE5MTE3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/bc/50/bc50be829fdbc9494d21e6cce5d8dcad84270b51.jpg"
+          },
+          {
+            "articleId": "0970819124",
+            "url": "/es_es/productpage.0970819124.html",
+            "colorName": "Verde caqui oscuro",
+            "colorCode": "46413A",
+            "trackingId": "OzU7IzswOTcwODE5MTI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/83/82/8382674e3d631141f9eeb7effd0305733e2e5cc2.jpg"
+          },
+          {
+            "articleId": "0970819126",
+            "url": "/es_es/productpage.0970819126.html",
+            "colorName": "Marrón oscuro",
+            "colorCode": "3F3838",
+            "trackingId": "OzU7IzswOTcwODE5MTI2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/8f/5c/8f5cd5043d33bc8b9a14bdc41ca22a9c06b0e62c.jpg"
+          },
+          {
+            "articleId": "0970819132",
+            "url": "/es_es/productpage.0970819132.html",
+            "colorName": "Beige",
+            "colorCode": "AE9E80",
+            "trackingId": "OzU7IzswOTcwODE5MTMyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/01/41/01410ac9244e5d694caccb684c7955e3deccdad3.jpg"
+          },
+          {
+            "articleId": "0970819121",
+            "url": "/es_es/productpage.0970819121.html",
+            "colorName": "Verde bosque oscuro",
+            "colorCode": "2D3938",
+            "trackingId": "OzU7IzswOTcwODE5MTIxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/13/34/1334bb05a7c4714ad7ac040b9dd2249c11360197.jpg"
+          },
+          {
+            "articleId": "0970819119",
+            "url": "/es_es/productpage.0970819119.html",
+            "colorName": "Azul claro",
+            "colorCode": "8098CA",
+            "trackingId": "OzU7IzswOTcwODE5MTE5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/c1/ed/c1ed3b6b8b44ab49a6b5da7d8b04c6322028ce46.jpg"
+          },
+          {
+            "articleId": "0970819078",
+            "url": "/es_es/productpage.0970819078.html",
+            "colorName": "Beige grisáceo oscuro",
+            "colorCode": "5C595B",
+            "trackingId": "OzU7IzswOTcwODE5MDc4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/2a/1a/2a1a0c351c0d2769fe699acbb776375084246815.jpg"
+          },
+          {
+            "articleId": "0970819093",
+            "url": "/es_es/productpage.0970819093.html",
+            "colorName": "Burdeos",
+            "colorCode": "5B313D",
+            "trackingId": "OzU7IzswOTcwODE5MDkzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/5a/fa/5afaa4e2ce3da2d273b2c8952ee6a23c163001dd.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/13/d5/13d51c238cf4ed9921165531229f0f699ff8ae8c.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9c/a5/9ca552f0093987ecc1c3538d3f28980487fea694.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/11/a8/11a8d99ba640dfc7fd332fa1f43225ae3458f942.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/3d/d0/3dd0dcba8aad1c8212c146192e50a0a96bfd4d14.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Gris claro jaspeado",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/99/6c/996c52adbc0d2555e6aa0ac04d1c89201ca2ed15.jpg",
+        "colors": "AFAFAF",
+        "productImage": "https://image.hm.com/assets/hm/b8/5b/b85be7b1fb12ea62271f18c4ce7271138d47b696.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "XS",
+            "stock": 2
+          },
+          {
+            "id": "004",
+            "label": "L",
+            "stock": 2
+          },
+          {
+            "id": "005",
+            "label": "XL",
+            "stock": 2
+          },
+          {
+            "id": "002",
+            "label": "S",
+            "stock": 2
+          },
+          {
+            "id": "003",
+            "label": "M",
+            "stock": 2
+          },
+          {
+            "id": "006",
+            "label": "XXL",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "gris_808080",
+        "mainCatCode": "men_hoodiessweatshirts_hoodies"
+      }
+    ],
+    "sortOptions": {
+      "selected": "RELEVANCE",
+      "options": [
+        {
+          "id": "RELEVANCE",
+          "label": "Relevancia"
+        },
+        {
+          "id": "NEWEST_FIRST",
+          "label": "Nuevo"
+        },
+        {
+          "id": "PRICE_ASCENDING",
+          "label": "Precio más bajo"
+        },
+        {
+          "id": "PRICE_DESCENDING",
+          "label": "Precio más alto"
+        }
+      ]
+    },
+    "numberOfHits": 5112,
+    "sliceRanges": [],
+    "facets": [
+      {
+        "name": "Precio",
+        "id": "priceRange",
+        "selectedCount": 0,
+        "type": "RANGE",
+        "min": 3.99,
+        "max": 999
+      },
+      {
+        "name": "ColorWithNames",
+        "id": "colorWithNames",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "amarillo_ffff00",
+            "name": "amarillo_ffff00",
+            "count": 23,
+            "selected": false
+          },
+          {
+            "id": "azul_0000ff",
+            "name": "azul_0000ff",
+            "count": 947,
+            "selected": false
+          },
+          {
+            "id": "beige_f5f5dc",
+            "name": "beige_f5f5dc",
+            "count": 654,
+            "selected": false
+          },
+          {
+            "id": "blanco_ffffff",
+            "name": "blanco_ffffff",
+            "count": 649,
+            "selected": false
+          },
+          {
+            "id": "bronce_cd7f32",
+            "name": "bronce_cd7f32",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "gris_808080",
+            "name": "gris_808080",
+            "count": 634,
+            "selected": false
+          },
+          {
+            "id": "lila_800080",
+            "name": "lila_800080",
+            "count": 51,
+            "selected": false
+          },
+          {
+            "id": "marrón_a52a2a",
+            "name": "marrón_a52a2a",
+            "count": 413,
+            "selected": false
+          },
+          {
+            "id": "multi_000000",
+            "name": "multi_000000",
+            "count": 462,
+            "selected": false
+          },
+          {
+            "id": "naranja_ffa500",
+            "name": "naranja_ffa500",
+            "count": 41,
+            "selected": false
+          },
+          {
+            "id": "negro_000000",
+            "name": "negro_000000",
+            "count": 1304,
+            "selected": false
+          },
+          {
+            "id": "rojo_ff0000",
+            "name": "rojo_ff0000",
+            "count": 139,
+            "selected": false
+          },
+          {
+            "id": "rosa_ffc0cb",
+            "name": "rosa_ffc0cb",
+            "count": 47,
+            "selected": false
+          },
+          {
+            "id": "turquesa_40e0d0",
+            "name": "turquesa_40e0d0",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "verde_008000",
+            "name": "verde_008000",
+            "count": 392,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Talla",
+        "id": "sizes",
+        "selectedCount": 0,
+        "type": "SIZE",
+        "groups": [
+          {
+            "name": "menswear",
+            "facetValues": [
+              {
+                "id": "menswear;NO_FORMAT[SML];XXS",
+                "name": "XXS",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];XS",
+                "name": "XS",
+                "count": 2297,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];S",
+                "name": "S",
+                "count": 2412,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];M",
+                "name": "M",
+                "count": 2408,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];L",
+                "name": "L",
+                "count": 2357,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];XL",
+                "name": "XL",
+                "count": 2204,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];XXL",
+                "name": "XXL",
+                "count": 1298,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML];3XL",
+                "name": "3XL",
+                "count": 114,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];37",
+                "name": "37",
+                "count": 6,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];38",
+                "name": "38",
+                "count": 6,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];39",
+                "name": "39",
+                "count": 6,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];40",
+                "name": "40",
+                "count": 6,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];41",
+                "name": "41",
+                "count": 6,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];42",
+                "name": "42",
+                "count": 5,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];43",
+                "name": "43",
+                "count": 5,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];44",
+                "name": "44",
+                "count": 382,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];46",
+                "name": "46",
+                "count": 379,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];48",
+                "name": "48",
+                "count": 389,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];50",
+                "name": "50",
+                "count": 410,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];52",
+                "name": "52",
+                "count": 397,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];54",
+                "name": "54",
+                "count": 397,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];56",
+                "name": "56",
+                "count": 172,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];58",
+                "name": "58",
+                "count": 142,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];60",
+                "name": "60",
+                "count": 94,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric];62",
+                "name": "62",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML/Integer];S/56",
+                "name": "S/56",
+                "count": 10,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML/Integer];M/58",
+                "name": "M/58",
+                "count": 13,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[SML/Integer];L/60",
+                "name": "L/60",
+                "count": 11,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[unknown];L/S",
+                "name": "L/S",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[unknown];M/S",
+                "name": "M/S",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[unknown];S/S",
+                "name": "S/S",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "menswear;NO_FORMAT[Numeric Fit];44S",
+                "name": "44S",
+                "count": 1,
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "waist",
+            "facetValues": [
+              {
+                "id": "waist;NO_FORMAT[Numeric];23",
+                "name": "23",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];24",
+                "name": "24",
+                "count": 9,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];25",
+                "name": "25",
+                "count": 9,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];26",
+                "name": "26",
+                "count": 7,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];27",
+                "name": "27",
+                "count": 14,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];28",
+                "name": "28",
+                "count": 146,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];29",
+                "name": "29",
+                "count": 127,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];30",
+                "name": "30",
+                "count": 143,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];31",
+                "name": "31",
+                "count": 115,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];32",
+                "name": "32",
+                "count": 122,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];33",
+                "name": "33",
+                "count": 102,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];34",
+                "name": "34",
+                "count": 123,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];36",
+                "name": "36",
+                "count": 120,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];38",
+                "name": "38",
+                "count": 95,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric];40",
+                "name": "40",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];24/32",
+                "name": "24/32",
+                "count": 19,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];25/30",
+                "name": "25/30",
+                "count": 12,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];25/32",
+                "name": "25/32",
+                "count": 20,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];26/30",
+                "name": "26/30",
+                "count": 18,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];26/32",
+                "name": "26/32",
+                "count": 22,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];27/30",
+                "name": "27/30",
+                "count": 32,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];27/32",
+                "name": "27/32",
+                "count": 47,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];27/34",
+                "name": "27/34",
+                "count": 5,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];28/30",
+                "name": "28/30",
+                "count": 173,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];28/32",
+                "name": "28/32",
+                "count": 225,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];28/34",
+                "name": "28/34",
+                "count": 11,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];29/30",
+                "name": "29/30",
+                "count": 154,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];29/32",
+                "name": "29/32",
+                "count": 205,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];29/34",
+                "name": "29/34",
+                "count": 32,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];30/30",
+                "name": "30/30",
+                "count": 130,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];30/32",
+                "name": "30/32",
+                "count": 214,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];30/34",
+                "name": "30/34",
+                "count": 105,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];31/30",
+                "name": "31/30",
+                "count": 119,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];31/32",
+                "name": "31/32",
+                "count": 205,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];31/34",
+                "name": "31/34",
+                "count": 102,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];32/30",
+                "name": "32/30",
+                "count": 101,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];32/32",
+                "name": "32/32",
+                "count": 177,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];32/34",
+                "name": "32/34",
+                "count": 137,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];33/30",
+                "name": "33/30",
+                "count": 50,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];33/32",
+                "name": "33/32",
+                "count": 164,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];33/34",
+                "name": "33/34",
+                "count": 137,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];34/30",
+                "name": "34/30",
+                "count": 47,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];34/32",
+                "name": "34/32",
+                "count": 127,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];34/34",
+                "name": "34/34",
+                "count": 136,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];36/30",
+                "name": "36/30",
+                "count": 44,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];36/32",
+                "name": "36/32",
+                "count": 119,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];36/34",
+                "name": "36/34",
+                "count": 95,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];38/32",
+                "name": "38/32",
+                "count": 74,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];38/34",
+                "name": "38/34",
+                "count": 29,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];40/32",
+                "name": "40/32",
+                "count": 79,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];42/32",
+                "name": "42/32",
+                "count": 37,
+                "selected": false
+              },
+              {
+                "id": "waist;NO_FORMAT[Numeric/Numeric];44/32",
+                "name": "44/32",
+                "count": 1,
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "footwear",
+            "facetValues": [
+              {
+                "id": "footwear;NO_FORMAT[Numeric];39",
+                "name": "39",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric];40",
+                "name": "40",
+                "count": 107,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric];41",
+                "name": "41",
+                "count": 113,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric];42",
+                "name": "42",
+                "count": 104,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric];43",
+                "name": "43",
+                "count": 107,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric];44",
+                "name": "44",
+                "count": 104,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric];45",
+                "name": "45",
+                "count": 103,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric];46",
+                "name": "46",
+                "count": 78,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];36/38",
+                "name": "36/38",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];37/39",
+                "name": "37/39",
+                "count": 83,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];39/41",
+                "name": "39/41",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];39/42",
+                "name": "39/42",
+                "count": 36,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];40/41",
+                "name": "40/41",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];40/42",
+                "name": "40/42",
+                "count": 84,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];40/44",
+                "name": "40/44",
+                "count": 4,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];42/43",
+                "name": "42/43",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];42/46",
+                "name": "42/46",
+                "count": 13,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];43/45",
+                "name": "43/45",
+                "count": 85,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];43/46",
+                "name": "43/46",
+                "count": 24,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];44/45",
+                "name": "44/45",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "footwear;NO_FORMAT[Numeric/Numeric];46/48",
+                "name": "46/48",
+                "count": 64,
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "womenswear",
+            "facetValues": [
+              {
+                "id": "womenswear;NO_FORMAT[SML];XXS",
+                "name": "XXS",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];XS",
+                "name": "XS",
+                "count": 11,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];XS/S",
+                "name": "XS/S",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];S",
+                "name": "S",
+                "count": 27,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];M",
+                "name": "M",
+                "count": 28,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];M/L",
+                "name": "M/L",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];L",
+                "name": "L",
+                "count": 26,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[SML];XL",
+                "name": "XL",
+                "count": 7,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];110x19.5",
+                "name": "110x19.5",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];153x13",
+                "name": "153x13",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];168x30",
+                "name": "168x30",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];170x25",
+                "name": "170x25",
+                "count": 4,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];170x26",
+                "name": "170x26",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];170x33",
+                "name": "170x33",
+                "count": 4,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];170x45",
+                "name": "170x45",
+                "count": 6,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];180x26",
+                "name": "180x26",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];180x30",
+                "name": "180x30",
+                "count": 10,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];190x22",
+                "name": "190x22",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];190x28",
+                "name": "190x28",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];190x30",
+                "name": "190x30",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];190x36",
+                "name": "190x36",
+                "count": 4,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];195x30",
+                "name": "195x30",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];200x12",
+                "name": "200x12",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];200x22",
+                "name": "200x22",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];200x25",
+                "name": "200x25",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];200x70",
+                "name": "200x70",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];33x33",
+                "name": "33x33",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];47x190",
+                "name": "47x190",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];50x50",
+                "name": "50x50",
+                "count": 3,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];55x55",
+                "name": "55x55",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];60x60",
+                "name": "60x60",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];70x70",
+                "name": "70x70",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];85x30",
+                "name": "85x30",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];90x200",
+                "name": "90x200",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];L-50",
+                "name": "L-50",
+                "count": 28,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];M-40",
+                "name": "M-40",
+                "count": 23,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];S-30",
+                "name": "S-30",
+                "count": 22,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[unknown];XXS-20",
+                "name": "XXS-20",
+                "count": 20,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric \"];13\"",
+                "name": "13\"",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "womenswear;NO_FORMAT[Numeric \"];16\"",
+                "name": "16\"",
+                "count": 1,
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "homewear",
+            "facetValues": [
+              {
+                "id": "homewear;NO_FORMAT[unknown];80x150",
+                "name": "80x150",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "homewear;NO_FORMAT[unknown];85x80",
+                "name": "85x80",
+                "count": 1,
+                "selected": false
+              }
+            ]
+          },
+          {
+            "name": "kidsfootwear",
+            "facetValues": [
+              {
+                "id": "kidsfootwear;NO_FORMAT[Numeric/Numeric];25/27",
+                "name": "25/27",
+                "count": 2,
+                "selected": false
+              },
+              {
+                "id": "kidsfootwear;NO_FORMAT[Numeric/Numeric];28/30",
+                "name": "28/30",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "kidsfootwear;NO_FORMAT[Numeric/Numeric];31/33",
+                "name": "31/33",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "kidsfootwear;NO_FORMAT[Numeric/Numeric];34/36",
+                "name": "34/36",
+                "count": 1,
+                "selected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GarmentLengths",
+        "id": "garmentLengths",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Corto",
+            "name": "Corto",
+            "count": 336,
+            "selected": false
+          },
+          {
+            "id": "Cropped",
+            "name": "Cropped",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Largo",
+            "name": "Largo",
+            "count": 969,
+            "selected": false
+          },
+          {
+            "id": "Largo hasta la rodilla",
+            "name": "Largo hasta la rodilla",
+            "count": 90,
+            "selected": false
+          },
+          {
+            "id": "Largo normal",
+            "name": "Largo normal",
+            "count": 2686,
+            "selected": false
+          },
+          {
+            "id": "Maxi",
+            "name": "Maxi",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Midi",
+            "name": "Midi",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Perneras extralargas",
+            "name": "Perneras extralargas",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Tobillero",
+            "name": "Tobillero",
+            "count": 47,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ClothingStyles",
+        "id": "clothingStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Abertura",
+            "name": "Abertura",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Abrigo sobretodo",
+            "name": "Abrigo sobretodo",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Acampanado",
+            "name": "Acampanado",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Ajustado",
+            "name": "Ajustado",
+            "count": 99,
+            "selected": false
+          },
+          {
+            "id": "Americana",
+            "name": "Americana",
+            "count": 27,
+            "selected": false
+          },
+          {
+            "id": "Americana de esmoquin",
+            "name": "Americana de esmoquin",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Ancho",
+            "name": "Ancho",
+            "count": 82,
+            "selected": false
+          },
+          {
+            "id": "Anorak",
+            "name": "Anorak",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Bermudas",
+            "name": "Bermudas",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Bikini",
+            "name": "Bikini",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Botonadura doble",
+            "name": "Botonadura doble",
+            "count": 53,
+            "selected": false
+          },
+          {
+            "id": "Botonadura sencilla",
+            "name": "Botonadura sencilla",
+            "count": 86,
+            "selected": false
+          },
+          {
+            "id": "Calcetines de deporte",
+            "name": "Calcetines de deporte",
+            "count": 71,
+            "selected": false
+          },
+          {
+            "id": "Calcetines mini",
+            "name": "Calcetines mini",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Calcetines tobilleros",
+            "name": "Calcetines tobilleros",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Calzoncillos bóxer",
+            "name": "Calzoncillos bóxer",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Calzoncillos bóxer largos",
+            "name": "Calzoncillos bóxer largos",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Calzoncillos Trunk",
+            "name": "Calzoncillos Trunk",
+            "count": 60,
+            "selected": false
+          },
+          {
+            "id": "Camisa de esmoquin",
+            "name": "Camisa de esmoquin",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Camisa de frac",
+            "name": "Camisa de frac",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Camisa de traje",
+            "name": "Camisa de traje",
+            "count": 28,
+            "selected": false
+          },
+          {
+            "id": "Camisa mao",
+            "name": "Camisa mao",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Camiseta sin mangas",
+            "name": "Camiseta sin mangas",
+            "count": 98,
+            "selected": false
+          },
+          {
+            "id": "Cargo",
+            "name": "Cargo",
+            "count": 101,
+            "selected": false
+          },
+          {
+            "id": "Carpenter",
+            "name": "Carpenter",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Cazadora bomber",
+            "name": "Cazadora bomber",
+            "count": 34,
+            "selected": false
+          },
+          {
+            "id": "Cazadora de aviador",
+            "name": "Cazadora de aviador",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Chaleco",
+            "name": "Chaleco",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta camisera",
+            "name": "Chaqueta camisera",
+            "count": 25,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta con capucha",
+            "name": "Chaqueta con capucha",
+            "count": 76,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta cortavientos",
+            "name": "Chaqueta cortavientos",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta de béisbol",
+            "name": "Chaqueta de béisbol",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta de camionero",
+            "name": "Chaqueta de camionero",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta de carreras",
+            "name": "Chaqueta de carreras",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta de chándal",
+            "name": "Chaqueta de chándal",
+            "count": 10,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta estilo entrenador",
+            "name": "Chaqueta estilo entrenador",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta estilo Harrington",
+            "name": "Chaqueta estilo Harrington",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta híbrida",
+            "name": "Chaqueta híbrida",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta puffy",
+            "name": "Chaqueta puffy",
+            "count": 42,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta shell",
+            "name": "Chaqueta shell",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Chaquetón marinero",
+            "name": "Chaquetón marinero",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Chinos",
+            "name": "Chinos",
+            "count": 83,
+            "selected": false
+          },
+          {
+            "id": "Corte cuadrado",
+            "name": "Corte cuadrado",
+            "count": 115,
+            "selected": false
+          },
+          {
+            "id": "Corte para bota",
+            "name": "Corte para bota",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Espalda olímpica",
+            "name": "Espalda olímpica",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Gabardina",
+            "name": "Gabardina",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Jersey con capucha",
+            "name": "Jersey con capucha",
+            "count": 134,
+            "selected": false
+          },
+          {
+            "id": "Joggers",
+            "name": "Joggers",
+            "count": 22,
+            "selected": false
+          },
+          {
+            "id": "Media cremallera",
+            "name": "Media cremallera",
+            "count": 79,
+            "selected": false
+          },
+          {
+            "id": "Motero",
+            "name": "Motero",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pantalón corto de chándal",
+            "name": "Pantalón corto de chándal",
+            "count": 38,
+            "selected": false
+          },
+          {
+            "id": "Pantalón corto de vestir",
+            "name": "Pantalón corto de vestir",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Pantalón de chándal",
+            "name": "Pantalón de chándal",
+            "count": 95,
+            "selected": false
+          },
+          {
+            "id": "Pantalón de ciclismo",
+            "name": "Pantalón de ciclismo",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Pantalón de esmoquin",
+            "name": "Pantalón de esmoquin",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Pantalón de traje",
+            "name": "Pantalón de traje",
+            "count": 111,
+            "selected": false
+          },
+          {
+            "id": "Pantalón sastre",
+            "name": "Pantalón sastre",
+            "count": 81,
+            "selected": false
+          },
+          {
+            "id": "Pantalón sin cierre",
+            "name": "Pantalón sin cierre",
+            "count": 82,
+            "selected": false
+          },
+          {
+            "id": "Pantalones cortos 2 en 1",
+            "name": "Pantalones cortos 2 en 1",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Parachute",
+            "name": "Parachute",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Parka",
+            "name": "Parka",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Pernera barrel",
+            "name": "Pernera barrel",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Perneras estilo globo",
+            "name": "Perneras estilo globo",
+            "count": 37,
+            "selected": false
+          },
+          {
+            "id": "Perneras rectas",
+            "name": "Perneras rectas",
+            "count": 322,
+            "selected": false
+          },
+          {
+            "id": "Polo",
+            "name": "Polo",
+            "count": 212,
+            "selected": false
+          },
+          {
+            "id": "Polo de rugby",
+            "name": "Polo de rugby",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Sin cuello",
+            "name": "Sin cuello",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Slips",
+            "name": "Slips",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Sobrecamisa",
+            "name": "Sobrecamisa",
+            "count": 95,
+            "selected": false
+          },
+          {
+            "id": "Stacked",
+            "name": "Stacked",
+            "count": 42,
+            "selected": false
+          },
+          {
+            "id": "Sudadera",
+            "name": "Sudadera",
+            "count": 112,
+            "selected": false
+          },
+          {
+            "id": "Trashed",
+            "name": "Trashed",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Trenca",
+            "name": "Trenca",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Túnica",
+            "name": "Túnica",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Wide",
+            "name": "Wide",
+            "count": 74,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Materials",
+        "id": "materials",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Acero inoxidable",
+            "name": "Acero inoxidable",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Algodón",
+            "name": "Algodón",
+            "count": 1746,
+            "selected": false
+          },
+          {
+            "id": "Alpaca",
+            "name": "Alpaca",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Ante",
+            "name": "Ante",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "Borreguito",
+            "name": "Borreguito",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Bouclé",
+            "name": "Bouclé",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Cachemira",
+            "name": "Cachemira",
+            "count": 59,
+            "selected": false
+          },
+          {
+            "id": "Chenille",
+            "name": "Chenille",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Denim",
+            "name": "Denim",
+            "count": 363,
+            "selected": false
+          },
+          {
+            "id": "Dobby",
+            "name": "Dobby",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Efecto neopreno",
+            "name": "Efecto neopreno",
+            "count": 23,
+            "selected": false
+          },
+          {
+            "id": "Encaje",
+            "name": "Encaje",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Felpa de rizo",
+            "name": "Felpa de rizo",
+            "count": 158,
+            "selected": false
+          },
+          {
+            "id": "Fieltro",
+            "name": "Fieltro",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Franela",
+            "name": "Franela",
+            "count": 38,
+            "selected": false
+          },
+          {
+            "id": "Lana",
+            "name": "Lana",
+            "count": 445,
+            "selected": false
+          },
+          {
+            "id": "Lino",
+            "name": "Lino",
+            "count": 256,
+            "selected": false
+          },
+          {
+            "id": "Liocel",
+            "name": "Liocel",
+            "count": 53,
+            "selected": false
+          },
+          {
+            "id": "Lona",
+            "name": "Lona",
+            "count": 39,
+            "selected": false
+          },
+          {
+            "id": "Malla",
+            "name": "Malla",
+            "count": 43,
+            "selected": false
+          },
+          {
+            "id": "Material PU",
+            "name": "Material PU",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "Merino",
+            "name": "Merino",
+            "count": 65,
+            "selected": false
+          },
+          {
+            "id": "Metal",
+            "name": "Metal",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Mohair",
+            "name": "Mohair",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Muselina",
+            "name": "Muselina",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Oxford",
+            "name": "Oxford",
+            "count": 26,
+            "selected": false
+          },
+          {
+            "id": "Paja",
+            "name": "Paja",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Pana",
+            "name": "Pana",
+            "count": 62,
+            "selected": false
+          },
+          {
+            "id": "Piel",
+            "name": "Piel",
+            "count": 129,
+            "selected": false
+          },
+          {
+            "id": "Piqué",
+            "name": "Piqué",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Plumón",
+            "name": "Plumón",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Polar",
+            "name": "Polar",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Popelina",
+            "name": "Popelina",
+            "count": 60,
+            "selected": false
+          },
+          {
+            "id": "Punto",
+            "name": "Punto",
+            "count": 847,
+            "selected": false
+          },
+          {
+            "id": "Ripstop",
+            "name": "Ripstop",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sarga",
+            "name": "Sarga",
+            "count": 181,
+            "selected": false
+          },
+          {
+            "id": "Satén",
+            "name": "Satén",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Seda",
+            "name": "Seda",
+            "count": 25,
+            "selected": false
+          },
+          {
+            "id": "Sirsaca",
+            "name": "Sirsaca",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "Tejido de rizo",
+            "name": "Tejido de rizo",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Terciopelo",
+            "name": "Terciopelo",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Tweed",
+            "name": "Tweed",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Velour",
+            "name": "Velour",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Vidrio",
+            "name": "Vidrio",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Viscosa",
+            "name": "Viscosa",
+            "count": 37,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Patterns",
+        "id": "patterns",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Bloques de color",
+            "name": "Bloques de color",
+            "count": 23,
+            "selected": false
+          },
+          {
+            "id": "Cuadros",
+            "name": "Cuadros",
+            "count": 151,
+            "selected": false
+          },
+          {
+            "id": "Cuadros vichy",
+            "name": "Cuadros vichy",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Diseño de rombos",
+            "name": "Diseño de rombos",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Estampado",
+            "name": "Estampado",
+            "count": 146,
+            "selected": false
+          },
+          {
+            "id": "Estampado arlequinado",
+            "name": "Estampado arlequinado",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Estampado de carey",
+            "name": "Estampado de carey",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Estampado de cebra",
+            "name": "Estampado de cebra",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Estampado de cocodrilo",
+            "name": "Estampado de cocodrilo",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Estampado de espiguilla",
+            "name": "Estampado de espiguilla",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Estampado de leopardo",
+            "name": "Estampado de leopardo",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Estampado de piel de serpiente",
+            "name": "Estampado de piel de serpiente",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Estampado paisley",
+            "name": "Estampado paisley",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Estampado pata de gallo",
+            "name": "Estampado pata de gallo",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Floral",
+            "name": "Floral",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Jaspeado",
+            "name": "Jaspeado",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Liso",
+            "name": "Liso",
+            "count": 4021,
+            "selected": false
+          },
+          {
+            "id": "Lunares",
+            "name": "Lunares",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Raya diplomática",
+            "name": "Raya diplomática",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Rayas",
+            "name": "Rayas",
+            "count": 170,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "NecklineStyles",
+        "id": "necklineStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Cuello de cisne",
+            "name": "Cuello de cisne",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Cuello perkins",
+            "name": "Cuello perkins",
+            "count": 49,
+            "selected": false
+          },
+          {
+            "id": "Cuello redondo",
+            "name": "Cuello redondo",
+            "count": 1060,
+            "selected": false
+          },
+          {
+            "id": "Escote barco",
+            "name": "Escote barco",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Escote cuadrado",
+            "name": "Escote cuadrado",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Escote de pico",
+            "name": "Escote de pico",
+            "count": 170,
+            "selected": false
+          },
+          {
+            "id": "Escote pronunciado",
+            "name": "Escote pronunciado",
+            "count": 7,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Marca",
+        "id": "brandNames",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "ARKET",
+            "name": "ARKET",
+            "count": 534,
+            "selected": false
+          },
+          {
+            "id": "Cheap Monday",
+            "name": "Cheap Monday",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "COS",
+            "name": "COS",
+            "count": 776,
+            "selected": false
+          },
+          {
+            "id": "Five Oceans",
+            "name": "Five Oceans",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "H&M",
+            "name": "H&M",
+            "count": 3285,
+            "selected": false
+          },
+          {
+            "id": "Weekday",
+            "name": "Weekday",
+            "count": 500,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Coverages",
+        "id": "coverages",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Cobertura media",
+            "name": "Cobertura media",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Finishes",
+        "id": "finishes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Acabado brillante",
+            "name": "Acabado brillante",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "FragranceFamilies",
+        "id": "fragranceFamilies",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Amaderada",
+            "name": "Amaderada",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Benefits",
+        "id": "benefits",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Duradero",
+            "name": "Duradero",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Resistente al agua",
+            "name": "Resistente al agua",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Forms",
+        "id": "forms",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Líquido",
+            "name": "Líquido",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sólido",
+            "name": "Sólido",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Fits",
+        "id": "fits",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Compression fit",
+            "name": "Compression fit",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Corte ajustado",
+            "name": "Corte ajustado",
+            "count": 425,
+            "selected": false
+          },
+          {
+            "id": "Corte estándar",
+            "name": "Corte estándar",
+            "count": 1641,
+            "selected": false
+          },
+          {
+            "id": "Corte extraajustado",
+            "name": "Corte extraajustado",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Corte holgado",
+            "name": "Corte holgado",
+            "count": 940,
+            "selected": false
+          },
+          {
+            "id": "Corte relajado",
+            "name": "Corte relajado",
+            "count": 718,
+            "selected": false
+          },
+          {
+            "id": "Loose",
+            "name": "Loose",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Muscle fit",
+            "name": "Muscle fit",
+            "count": 25,
+            "selected": false
+          },
+          {
+            "id": "Oversized",
+            "name": "Oversized",
+            "count": 270,
+            "selected": false
+          },
+          {
+            "id": "Relaxed",
+            "name": "Relaxed",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Tight",
+            "name": "Tight",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "WaistRises",
+        "id": "waistRises",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Cintura estándar",
+            "name": "Cintura estándar",
+            "count": 1378,
+            "selected": false
+          },
+          {
+            "id": "Talle alto",
+            "name": "Talle alto",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Talle bajo",
+            "name": "Talle bajo",
+            "count": 20,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ProductTypes",
+        "id": "productTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Abrigo",
+            "name": "Abrigo",
+            "count": 39,
+            "selected": false
+          },
+          {
+            "id": "Accesorios para perro",
+            "name": "Accesorios para perro",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Adorno para maleta",
+            "name": "Adorno para maleta",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Agitador",
+            "name": "Agitador",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Albornoz",
+            "name": "Albornoz",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Ambientador para tejidos",
+            "name": "Ambientador para tejidos",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Americana",
+            "name": "Americana",
+            "count": 116,
+            "selected": false
+          },
+          {
+            "id": "Anillo",
+            "name": "Anillo",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Bañador",
+            "name": "Bañador",
+            "count": 53,
+            "selected": false
+          },
+          {
+            "id": "Bolsa de la colada",
+            "name": "Bolsa de la colada",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Bolso",
+            "name": "Bolso",
+            "count": 109,
+            "selected": false
+          },
+          {
+            "id": "Braga de bikini",
+            "name": "Braga de bikini",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Brazalete",
+            "name": "Brazalete",
+            "count": 10,
+            "selected": false
+          },
+          {
+            "id": "Broche",
+            "name": "Broche",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Bufanda",
+            "name": "Bufanda",
+            "count": 69,
+            "selected": false
+          },
+          {
+            "id": "Calcetines",
+            "name": "Calcetines",
+            "count": 154,
+            "selected": false
+          },
+          {
+            "id": "Calentador decorativo para el cuello",
+            "name": "Calentador decorativo para el cuello",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Calzoncillos",
+            "name": "Calzoncillos",
+            "count": 101,
+            "selected": false
+          },
+          {
+            "id": "Calzoncillos largos",
+            "name": "Calzoncillos largos",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Camisa",
+            "name": "Camisa",
+            "count": 601,
+            "selected": false
+          },
+          {
+            "id": "Camisa de dormir",
+            "name": "Camisa de dormir",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Camiseta",
+            "name": "Camiseta",
+            "count": 849,
+            "selected": false
+          },
+          {
+            "id": "Camiseta de pijama",
+            "name": "Camiseta de pijama",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Cárdigan",
+            "name": "Cárdigan",
+            "count": 79,
+            "selected": false
+          },
+          {
+            "id": "Cartera",
+            "name": "Cartera",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Chaleco",
+            "name": "Chaleco",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Chaleco de hidratación",
+            "name": "Chaleco de hidratación",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Chaleco de traje",
+            "name": "Chaleco de traje",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Chaqueta",
+            "name": "Chaqueta",
+            "count": 266,
+            "selected": false
+          },
+          {
+            "id": "Cinturón",
+            "name": "Cinturón",
+            "count": 50,
+            "selected": false
+          },
+          {
+            "id": "Collar",
+            "name": "Collar",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Corbata",
+            "name": "Corbata",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Cordones de zapato",
+            "name": "Cordones de zapato",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Culotte de ciclismo con tirantes",
+            "name": "Culotte de ciclismo con tirantes",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Delantal",
+            "name": "Delantal",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Eau de parfum",
+            "name": "Eau de parfum",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Estribo",
+            "name": "Estribo",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Funda para gafas",
+            "name": "Funda para gafas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Gafas",
+            "name": "Gafas",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Gafas de esquí",
+            "name": "Gafas de esquí",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Gafas de sol",
+            "name": "Gafas de sol",
+            "count": 23,
+            "selected": false
+          },
+          {
+            "id": "Gorra",
+            "name": "Gorra",
+            "count": 44,
+            "selected": false
+          },
+          {
+            "id": "Gorro",
+            "name": "Gorro",
+            "count": 108,
+            "selected": false
+          },
+          {
+            "id": "Guantes",
+            "name": "Guantes",
+            "count": 29,
+            "selected": false
+          },
+          {
+            "id": "Jersey",
+            "name": "Jersey",
+            "count": 632,
+            "selected": false
+          },
+          {
+            "id": "Laca de uñas",
+            "name": "Laca de uñas",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Lápiz de ojos",
+            "name": "Lápiz de ojos",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Lápiz delineador",
+            "name": "Lápiz delineador",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Leggings",
+            "name": "Leggings",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Llavero",
+            "name": "Llavero",
+            "count": 10,
+            "selected": false
+          },
+          {
+            "id": "Molinillo de sal",
+            "name": "Molinillo de sal",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Neceser",
+            "name": "Neceser",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Organizador de equipaje",
+            "name": "Organizador de equipaje",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Organizador para bolso",
+            "name": "Organizador para bolso",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Pajarita",
+            "name": "Pajarita",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Pantalón",
+            "name": "Pantalón",
+            "count": 632,
+            "selected": false
+          },
+          {
+            "id": "Pantalón corto",
+            "name": "Pantalón corto",
+            "count": 289,
+            "selected": false
+          },
+          {
+            "id": "Pantalón corto de pijama",
+            "name": "Pantalón corto de pijama",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Pantalón de pijama",
+            "name": "Pantalón de pijama",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Pañuelo",
+            "name": "Pañuelo",
+            "count": 10,
+            "selected": false
+          },
+          {
+            "id": "Parche",
+            "name": "Parche",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Peine quitapelusas",
+            "name": "Peine quitapelusas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pendientes",
+            "name": "Pendientes",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Pijama",
+            "name": "Pijama",
+            "count": 45,
+            "selected": false
+          },
+          {
+            "id": "Ropa para perro",
+            "name": "Ropa para perro",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "Sombra de ojos",
+            "name": "Sombra de ojos",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Tarjetero",
+            "name": "Tarjetero",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Toalla",
+            "name": "Toalla",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Top",
+            "name": "Top",
+            "count": 127,
+            "selected": false
+          },
+          {
+            "id": "Vaqueros",
+            "name": "Vaqueros",
+            "count": 319,
+            "selected": false
+          },
+          {
+            "id": "Vela",
+            "name": "Vela",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Zapatillas de casa",
+            "name": "Zapatillas de casa",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Zapatos",
+            "name": "Zapatos",
+            "count": 127,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "CustomerGroups",
+        "id": "customerGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Hombre",
+            "name": "Hombre",
+            "count": 5065,
+            "selected": false
+          },
+          {
+            "id": "Mujer",
+            "name": "Mujer",
+            "count": 162,
+            "selected": false
+          },
+          {
+            "id": "Niña",
+            "name": "Niña",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Niño",
+            "name": "Niño",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Qualities",
+        "id": "qualities",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Algodón",
+            "name": "Algodón",
+            "count": 439,
+            "selected": false
+          },
+          {
+            "id": "Cachemira",
+            "name": "Cachemira",
+            "count": 36,
+            "selected": false
+          },
+          {
+            "id": "H&M Premium Selection",
+            "name": "H&M Premium Selection",
+            "count": 226,
+            "selected": false
+          },
+          {
+            "id": "Lana",
+            "name": "Lana",
+            "count": 177,
+            "selected": false
+          },
+          {
+            "id": "Lino",
+            "name": "Lino",
+            "count": 51,
+            "selected": false
+          },
+          {
+            "id": "Merino",
+            "name": "Merino",
+            "count": 37,
+            "selected": false
+          },
+          {
+            "id": "Mohair",
+            "name": "Mohair",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "N/A",
+            "name": "N/A",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Piel",
+            "name": "Piel",
+            "count": 56,
+            "selected": false
+          },
+          {
+            "id": "Seda",
+            "name": "Seda",
+            "count": 14,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Occasions",
+        "id": "occasions",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Halloween",
+            "name": "Halloween",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Navidad",
+            "name": "Navidad",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Nochevieja",
+            "name": "Nochevieja",
+            "count": 3,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AssortmentTypes",
+        "id": "assortmentTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Accesorios",
+            "name": "Accesorios",
+            "count": 584,
+            "selected": false
+          },
+          {
+            "id": "Calzado",
+            "name": "Calzado",
+            "count": 134,
+            "selected": false
+          },
+          {
+            "id": "Cuidado personal",
+            "name": "Cuidado personal",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Hogar",
+            "name": "Hogar",
+            "count": 27,
+            "selected": false
+          },
+          {
+            "id": "Ropa",
+            "name": "Ropa",
+            "count": 4360,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AgeGroups",
+        "id": "ageGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Adulto",
+            "name": "Adulto",
+            "count": 5072,
+            "selected": false
+          },
+          {
+            "id": "Niños mayores",
+            "name": "Niños mayores",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Niños pequeños",
+            "name": "Niños pequeños",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "FilterCategories",
+        "id": "filterCategories",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Accesorios",
+            "name": "Accesorios",
+            "count": 588,
+            "selected": false
+          },
+          {
+            "id": "Americanas y trajes",
+            "name": "Americanas y trajes",
+            "count": 249,
+            "selected": false
+          },
+          {
+            "id": "Bañadores",
+            "name": "Bañadores",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Baño y ducha",
+            "name": "Baño y ducha",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Calcetines",
+            "name": "Calcetines",
+            "count": 149,
+            "selected": false
+          },
+          {
+            "id": "Calcetines y leotardos",
+            "name": "Calcetines y leotardos",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Calcetines y medias",
+            "name": "Calcetines y medias",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Calzado",
+            "name": "Calzado",
+            "count": 134,
+            "selected": false
+          },
+          {
+            "id": "Camisas",
+            "name": "Camisas",
+            "count": 600,
+            "selected": false
+          },
+          {
+            "id": "Camisetas de manga corta y sin mangas",
+            "name": "Camisetas de manga corta y sin mangas",
+            "count": 970,
+            "selected": false
+          },
+          {
+            "id": "Cárdigans y jerséis",
+            "name": "Cárdigans y jerséis",
+            "count": 395,
+            "selected": false
+          },
+          {
+            "id": "Chaquetas y abrigos",
+            "name": "Chaquetas y abrigos",
+            "count": 328,
+            "selected": false
+          },
+          {
+            "id": "Cocina y comedor",
+            "name": "Cocina y comedor",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Decoración",
+            "name": "Decoración",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Deporte",
+            "name": "Deporte",
+            "count": 299,
+            "selected": false
+          },
+          {
+            "id": "Deportivo",
+            "name": "Deportivo",
+            "count": 302,
+            "selected": false
+          },
+          {
+            "id": "Estuches y neceseres de maquillaje",
+            "name": "Estuches y neceseres de maquillaje",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Fragancia",
+            "name": "Fragancia",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Fragancia para el hogar",
+            "name": "Fragancia para el hogar",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Jeans",
+            "name": "Jeans",
+            "count": 318,
+            "selected": false
+          },
+          {
+            "id": "Lencería",
+            "name": "Lencería",
+            "count": 105,
+            "selected": false
+          },
+          {
+            "id": "Maquillaje",
+            "name": "Maquillaje",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Pantalones",
+            "name": "Pantalones",
+            "count": 631,
+            "selected": false
+          },
+          {
+            "id": "Pantalones cortos",
+            "name": "Pantalones cortos",
+            "count": 289,
+            "selected": false
+          },
+          {
+            "id": "Pijamas",
+            "name": "Pijamas",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Pijamas y ropa de estar por casa",
+            "name": "Pijamas y ropa de estar por casa",
+            "count": 106,
+            "selected": false
+          },
+          {
+            "id": "Prendas de punto",
+            "name": "Prendas de punto",
+            "count": 396,
+            "selected": false
+          },
+          {
+            "id": "Sudaderas",
+            "name": "Sudaderas",
+            "count": 314,
+            "selected": false
+          },
+          {
+            "id": "Textiles de interior",
+            "name": "Textiles de interior",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Uñas",
+            "name": "Uñas",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "HeelHeights",
+        "id": "heelHeights",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Plano",
+            "name": "Plano",
+            "count": 61,
+            "selected": false
+          },
+          {
+            "id": "Tacón bajo",
+            "name": "Tacón bajo",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "Tacón medio",
+            "name": "Tacón medio",
+            "count": 16,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AccessoriesStyles",
+        "id": "accessoriesStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Bandolera",
+            "name": "Bandolera",
+            "count": 47,
+            "selected": false
+          },
+          {
+            "id": "Bolsa de fin de semana",
+            "name": "Bolsa de fin de semana",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Bolsa para portátil",
+            "name": "Bolsa para portátil",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Bolsa tote",
+            "name": "Bolsa tote",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "Bolso messenger",
+            "name": "Bolso messenger",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Bolso para móvil",
+            "name": "Bolso para móvil",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Bolso pouch",
+            "name": "Bolso pouch",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Bolso shopper",
+            "name": "Bolso shopper",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Brazalete de tenis",
+            "name": "Brazalete de tenis",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Bufanda de tubo",
+            "name": "Bufanda de tubo",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cartera",
+            "name": "Cartera",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Cinturón de cadera",
+            "name": "Cinturón de cadera",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Cinturón trenzado",
+            "name": "Cinturón trenzado",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Collar con colgante",
+            "name": "Collar con colgante",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Collar de cadena",
+            "name": "Collar de cadena",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Collar de tenis",
+            "name": "Collar de tenis",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Gorra con orejeras",
+            "name": "Gorra con orejeras",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Gorra de béisbol",
+            "name": "Gorra de béisbol",
+            "count": 26,
+            "selected": false
+          },
+          {
+            "id": "Gorra trucker",
+            "name": "Gorra trucker",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Maletín",
+            "name": "Maletín",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Mitones",
+            "name": "Mitones",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Mochila",
+            "name": "Mochila",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Pasamontañas",
+            "name": "Pasamontañas",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Pendientes de aro",
+            "name": "Pendientes de aro",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Pendientes de botón",
+            "name": "Pendientes de botón",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Pendientes de gota",
+            "name": "Pendientes de gota",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pulsera de brazalete",
+            "name": "Pulsera de brazalete",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Pulsera de cadena",
+            "name": "Pulsera de cadena",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Pulsera de cordón",
+            "name": "Pulsera de cordón",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sombrero bucket",
+            "name": "Sombrero bucket",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Sombrero fedora",
+            "name": "Sombrero fedora",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "FootwearStyles",
+        "id": "footwearStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Botas",
+            "name": "Botas",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "Botas Chelsea",
+            "name": "Botas Chelsea",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Botas con cordones",
+            "name": "Botas con cordones",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Botas de combate",
+            "name": "Botas de combate",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Botas safari",
+            "name": "Botas safari",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Botines",
+            "name": "Botines",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Chancletas",
+            "name": "Chancletas",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Esparteñas",
+            "name": "Esparteñas",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Mocasines",
+            "name": "Mocasines",
+            "count": 22,
+            "selected": false
+          },
+          {
+            "id": "Náuticos",
+            "name": "Náuticos",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Sandalias",
+            "name": "Sandalias",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Sandalias con plantilla anatómica",
+            "name": "Sandalias con plantilla anatómica",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Sin cierre",
+            "name": "Sin cierre",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Slides",
+            "name": "Slides",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Zapatillas deportivas",
+            "name": "Zapatillas deportivas",
+            "count": 27,
+            "selected": false
+          },
+          {
+            "id": "Zapato bajo",
+            "name": "Zapato bajo",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Zapato monkstrap",
+            "name": "Zapato monkstrap",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Zapato sin cierre",
+            "name": "Zapato sin cierre",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Zapatos de conducir",
+            "name": "Zapatos de conducir",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Zapatos Derby",
+            "name": "Zapatos Derby",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Zapatos Óxford",
+            "name": "Zapatos Óxford",
+            "count": 3,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Concepts",
+        "id": "concepts",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "BASICS",
+            "name": "BASICS",
+            "count": 406,
+            "selected": false
+          },
+          {
+            "id": "DIVIDED",
+            "name": "DIVIDED",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Functional Essentials",
+            "name": "Functional Essentials",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "H&M BEAUTY",
+            "name": "H&M BEAUTY",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "H&M MAN",
+            "name": "H&M MAN",
+            "count": 22,
+            "selected": false
+          },
+          {
+            "id": "H&M Move",
+            "name": "H&M Move",
+            "count": 302,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Collection",
+        "id": "collection",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M ATELIER",
+            "name": "H&M ATELIER",
+            "count": 52,
+            "selected": false
+          },
+          {
+            "id": "H&M Heron Preston",
+            "name": "H&M Heron Preston",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "H&M Move x Zlatan",
+            "name": "H&M Move x Zlatan",
+            "count": 22,
+            "selected": false
+          },
+          {
+            "id": "SUMMER 2025",
+            "name": "SUMMER 2025",
+            "count": 29,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Trendings",
+        "id": "trendings",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Ante",
+            "name": "Ante",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Bordado",
+            "name": "Bordado",
+            "count": 70,
+            "selected": false
+          },
+          {
+            "id": "Borla",
+            "name": "Borla",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Brillo",
+            "name": "Brillo",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Charol",
+            "name": "Charol",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Colores pastel",
+            "name": "Colores pastel",
+            "count": 84,
+            "selected": false
+          },
+          {
+            "id": "De ganchillo",
+            "name": "De ganchillo",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Estampado",
+            "name": "Estampado",
+            "count": 197,
+            "selected": false
+          },
+          {
+            "id": "Estampado animal",
+            "name": "Estampado animal",
+            "count": 15,
+            "selected": false
+          },
+          {
+            "id": "Estampado de fruta",
+            "name": "Estampado de fruta",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Flecos",
+            "name": "Flecos",
+            "count": 10,
+            "selected": false
+          },
+          {
+            "id": "Floral",
+            "name": "Floral",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Gráfico",
+            "name": "Gráfico",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Grunge",
+            "name": "Grunge",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Guateado",
+            "name": "Guateado",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Lazos",
+            "name": "Lazos",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Metalizado",
+            "name": "Metalizado",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Náutico",
+            "name": "Náutico",
+            "count": 34,
+            "selected": false
+          },
+          {
+            "id": "Neón",
+            "name": "Neón",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Ombre",
+            "name": "Ombre",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Parches",
+            "name": "Parches",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Pelo sintético",
+            "name": "Pelo sintético",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Piel",
+            "name": "Piel",
+            "count": 15,
+            "selected": false
+          },
+          {
+            "id": "Plisado",
+            "name": "Plisado",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Prenda funcional",
+            "name": "Prenda funcional",
+            "count": 71,
+            "selected": false
+          },
+          {
+            "id": "Strass",
+            "name": "Strass",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Tachuelas",
+            "name": "Tachuelas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Terciopelo",
+            "name": "Terciopelo",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Tie-dye",
+            "name": "Tie-dye",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Y2K",
+            "name": "Y2K",
+            "count": 23,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "SleeveLengths",
+        "id": "sleeveLengths",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Manga corta",
+            "name": "Manga corta",
+            "count": 875,
+            "selected": false
+          },
+          {
+            "id": "Manga larga",
+            "name": "Manga larga",
+            "count": 1588,
+            "selected": false
+          },
+          {
+            "id": "Mangas tres cuartos",
+            "name": "Mangas tres cuartos",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Sin mangas",
+            "name": "Sin mangas",
+            "count": 136,
+            "selected": false
+          }
+        ]
+      }
+    ]
+  }
+}

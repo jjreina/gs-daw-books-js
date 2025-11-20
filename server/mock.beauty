@@ -1,0 +1,3083 @@
+const url = 'https://apidojo-hm-hennes-mauritz-v1.p.rapidapi.com/products/v2/list?country=es&lang=es&page=0&pageSize=10&categoryId=beauty';
+{
+  "requestDateTime": "2025-11-20T08:35:25.048Z",
+  "responseSource": "Elevate",
+  "pagination": {
+    "currentPage": 1,
+    "nextPageNum": 2,
+    "totalPages": 102
+  },
+  "plpList": {
+    "productList": [
+      {
+        "id": "1283848001",
+        "trackingId": "OzU7IzsxMjgzODQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Calendario de Adviento para baño y cuerpo",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1283848001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "redPrice",
+            "price": 26.25,
+            "minPrice": 26.25,
+            "maxPrice": 26.25,
+            "formattedPrice": "26,25 €"
+          },
+          {
+            "priceType": "whitePrice",
+            "price": 34.99,
+            "minPrice": 34.99,
+            "maxPrice": 34.99,
+            "formattedPrice": "34,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1283848001",
+            "url": "/es_es/productpage.1283848001.html",
+            "colorName": "Rojo",
+            "colorCode": "FF1C4D",
+            "trackingId": "OzU7IzsxMjgzODQ4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzE7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/98/57/985758a4582aa42d5208f752917db160e15d88fb.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "percentageDiscount": "-25%",
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/f9/08/f90844505d14370e346e08d5c998783dbec69182.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/9f/26/9f26daffa96de791f410e786f6909a014f3bed35.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Rojo",
+        "isPreShopping": false,
+        "isOnline": true,
+        "videoId": "3cf28c7359b68fb41fe4054d742dcb36621f3dcf",
+        "modelImage": "https://image.hm.com/assets/hm/98/57/985758a4582aa42d5208f752917db160e15d88fb.jpg",
+        "colors": "FF1C4D",
+        "productImage": "https://image.hm.com/assets/hm/98/57/985758a4582aa42d5208f752917db160e15d88fb.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "rojo_ff0000",
+        "mainCatCode": "beauty_makeup_lips_lipbalmcare"
+      },
+      {
+        "id": "1283847002",
+        "trackingId": "OzU7IzsxMjgzODQ3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Calendario de Adviento con maquillaje",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1283847002.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "redPrice",
+            "price": 26.25,
+            "minPrice": 26.25,
+            "maxPrice": 26.25,
+            "formattedPrice": "26,25 €"
+          },
+          {
+            "priceType": "whitePrice",
+            "price": 34.99,
+            "minPrice": 34.99,
+            "maxPrice": 34.99,
+            "formattedPrice": "34,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1283847002",
+            "url": "/es_es/productpage.1283847002.html",
+            "colorName": "Rosa",
+            "colorCode": "FDA4CA",
+            "trackingId": "OzU7IzsxMjgzODQ3MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzI7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/c3/f4/c3f438e62290d0819110d9107e32031ce828686c.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "percentageDiscount": "-25%",
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/33/ef/33ef5dfe31a1282a9ec5b770a4b23ddc3ee7e84a.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/1e/dd/1edd4011251d838bf52f1cbb603452cb79988d19.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Rosa",
+        "isPreShopping": false,
+        "isOnline": true,
+        "videoId": "95b69780430dee3de70e575500eab9fd962d3ed8",
+        "modelImage": "https://image.hm.com/assets/hm/c3/f4/c3f438e62290d0819110d9107e32031ce828686c.jpg",
+        "colors": "FDA4CA",
+        "productImage": "https://image.hm.com/assets/hm/c3/f4/c3f438e62290d0819110d9107e32031ce828686c.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "rosa_ffc0cb",
+        "mainCatCode": "beauty_makeup_eyes_eyeliner"
+      },
+      {
+        "id": "1283846001",
+        "trackingId": "OzU7IzsxMjgzODQ2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Calendario de Adviento make-up formato 12 días",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1283846001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "redPrice",
+            "price": 26.25,
+            "minPrice": 26.25,
+            "maxPrice": 26.25,
+            "formattedPrice": "26,25 €"
+          },
+          {
+            "priceType": "whitePrice",
+            "price": 34.99,
+            "minPrice": 34.99,
+            "maxPrice": 34.99,
+            "formattedPrice": "34,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1283846001",
+            "url": "/es_es/productpage.1283846001.html",
+            "colorName": "Rosa/Rayas",
+            "colorCode": "ECDBE9",
+            "trackingId": "OzU7IzsxMjgzODQ2MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzM7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/1f/6a/1f6a18207013c16ee4d05c8fccee2e992aaf9c6b.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "percentageDiscount": "-25%",
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/eb/2e/eb2eb2a908bf09947118d6cf73eb00ee330231a7.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Rosa/Rayas",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/1f/6a/1f6a18207013c16ee4d05c8fccee2e992aaf9c6b.jpg",
+        "colors": "ECDBE9",
+        "productImage": "https://image.hm.com/assets/hm/1f/6a/1f6a18207013c16ee4d05c8fccee2e992aaf9c6b.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "rosa_ffc0cb",
+        "mainCatCode": "beauty_makeup_lips_lipbalmcare",
+        "sellingAttribute": "Nueva Colección"
+      },
+      {
+        "id": "1272953018",
+        "trackingId": "OzU7IzsxMjcyOTUzMDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Esmalte de uñas",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1272953018.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 4.99,
+            "minPrice": 4.99,
+            "maxPrice": 4.99,
+            "formattedPrice": "4,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1272953018",
+            "url": "/es_es/productpage.1272953018.html",
+            "colorName": "Majesty and Mayhem",
+            "colorCode": "40251e",
+            "trackingId": "OzU7IzsxMjcyOTUzMDE4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/2d/69/2d69f5d35d86c1a04c4b911916b6403be21adc8f.jpg"
+          },
+          {
+            "articleId": "1272953008",
+            "url": "/es_es/productpage.1272953008.html",
+            "colorName": "You Olive Once",
+            "colorCode": "50442e",
+            "trackingId": "OzU7IzsxMjcyOTUzMDA4OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/86/5f/865f5beb217e5fafb0c5285dad19918f054073b3.jpg"
+          },
+          {
+            "articleId": "1272953015",
+            "url": "/es_es/productpage.1272953015.html",
+            "colorName": "Midnight Manuscript",
+            "colorCode": "080d13",
+            "trackingId": "OzU7IzsxMjcyOTUzMDE1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/64/bc/64bc28cd2644efcd71e4198c15582c15d628b892.jpg"
+          },
+          {
+            "articleId": "1272953016",
+            "url": "/es_es/productpage.1272953016.html",
+            "colorName": "Wreck the Halls",
+            "colorCode": "79262e",
+            "trackingId": "OzU7IzsxMjcyOTUzMDE2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/9d/5c/9d5c674f74c95709005ed67a347c70bc31b4e68f.jpg"
+          },
+          {
+            "articleId": "1272953003",
+            "url": "/es_es/productpage.1272953003.html",
+            "colorName": "Tuscan Terracotta",
+            "colorCode": "cf5785",
+            "trackingId": "OzU7IzsxMjcyOTUzMDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/3f/a2/3fa27ffa0e133837a4ac97295bd5492ebacf07e9.jpg"
+          },
+          {
+            "articleId": "1272953001",
+            "url": "/es_es/productpage.1272953001.html",
+            "colorName": "Mixed Signals",
+            "colorCode": "9e484b",
+            "trackingId": "OzU7IzsxMjcyOTUzMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/78/10/781082d4c5d3717aa9e27c4cdf82a4d5c70c61cc.jpg"
+          },
+          {
+            "articleId": "1272953013",
+            "url": "/es_es/productpage.1272953013.html",
+            "colorName": "Charmed, I'm Sure",
+            "colorCode": "796F96",
+            "trackingId": "OzU7IzsxMjcyOTUzMDEzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/89/b4/89b4ddad76a65748069a90c8a2e61b1f27c1f4cc.jpg"
+          },
+          {
+            "articleId": "1272953010",
+            "url": "/es_es/productpage.1272953010.html",
+            "colorName": "In a Blue Moon",
+            "colorCode": "99a5a3",
+            "trackingId": "OzU7IzsxMjcyOTUzMDEwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/1e/ba/1eba109fd6bea293af871a544f6248bd57c49e94.jpg"
+          },
+          {
+            "articleId": "1272953017",
+            "url": "/es_es/productpage.1272953017.html",
+            "colorName": "Pearl Paradox",
+            "colorCode": "d9d4ce",
+            "trackingId": "OzU7IzsxMjcyOTUzMDE3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/7f/f6/7ff6142a25125654cf1c57b6a3dccc34ce6132e2.jpg"
+          },
+          {
+            "articleId": "1272953007",
+            "url": "/es_es/productpage.1272953007.html",
+            "colorName": "Tread Lightly",
+            "colorCode": "B7AB7F",
+            "trackingId": "OzU7IzsxMjcyOTUzMDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/00/ec/00ec33ea20c8f723a0e225f671214bb4b327b871.jpg"
+          },
+          {
+            "articleId": "1272953011",
+            "url": "/es_es/productpage.1272953011.html",
+            "colorName": "Wild Card",
+            "colorCode": "753d30",
+            "trackingId": "OzU7IzsxMjcyOTUzMDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/a9/a9/a9a919aa06b7d7b486be353fb9e26545f1fe96d8.jpg"
+          },
+          {
+            "articleId": "1272953004",
+            "url": "/es_es/productpage.1272953004.html",
+            "colorName": "Look Again",
+            "colorCode": "9A7AA2",
+            "trackingId": "OzU7IzsxMjcyOTUzMDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bf/e4/bfe4dc46c6e4201311bb3aaed3ac90a59feb1384.jpg"
+          },
+          {
+            "articleId": "1272953012",
+            "url": "/es_es/productpage.1272953012.html",
+            "colorName": "Coral Conspiracy",
+            "colorCode": "781c21",
+            "trackingId": "OzU7IzsxMjcyOTUzMDEyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/73/fe/73fe7a2cbdedd3ee471016c47a320c1ac9dd2630.jpg"
+          },
+          {
+            "articleId": "1272953005",
+            "url": "/es_es/productpage.1272953005.html",
+            "colorName": "Veiled Voltage",
+            "colorCode": "638397",
+            "trackingId": "OzU7IzsxMjcyOTUzMDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/f6/74/f6748cde5465536503edb96d6e4c78992610030d.jpg"
+          },
+          {
+            "articleId": "1272953002",
+            "url": "/es_es/productpage.1272953002.html",
+            "colorName": "Shrimp Diet",
+            "colorCode": "e06e6d",
+            "trackingId": "OzU7IzsxMjcyOTUzMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/cd/7d/cd7db78c3ebaa988c1435013d732eee54430850c.jpg"
+          },
+          {
+            "articleId": "1272953009",
+            "url": "/es_es/productpage.1272953009.html",
+            "colorName": "Mint for More",
+            "colorCode": "CAD3D5",
+            "trackingId": "OzU7IzsxMjcyOTUzMDA5OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/14/76/1476e5aad66648e5923adca272671367d91ec23d.jpg"
+          },
+          {
+            "articleId": "1272953006",
+            "url": "/es_es/productpage.1272953006.html",
+            "colorName": "Viva Verde",
+            "colorCode": "7eaf78",
+            "trackingId": "OzU7IzsxMjcyOTUzMDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzQ7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/5b/97/5b97a88ca25a7fb73f3a31ff9caf926f80816c83.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/4a/58/4a58ea18b68eea48b809ec571d8f06f009e17f65.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/e4/32/e432bf01216ad7cd701600badd3c30998e0f357e.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Majesty and Mayhem",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/2d/69/2d69f5d35d86c1a04c4b911916b6403be21adc8f.jpg",
+        "colors": "40251e",
+        "colourShades": "Caoba|Teja",
+        "productImage": "https://image.hm.com/assets/hm/2d/69/2d69f5d35d86c1a04c4b911916b6403be21adc8f.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "marrón_a52a2a",
+        "mainCatCode": "beauty_nails_nailpolish",
+        "sellingAttribute": "Nueva Colección"
+      },
+      {
+        "id": "1310202001",
+        "trackingId": "OzU7IzsxMzEwMjAyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Llavero con bálsamo labial",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1310202001.html",
+        "showPriceMarker": false,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 7.99,
+            "minPrice": 7.99,
+            "maxPrice": 7.99,
+            "formattedPrice": "7,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1310202001",
+            "url": "/es_es/productpage.1310202001.html",
+            "colorName": "Rojo/Hello Kitty",
+            "colorCode": "8D1330",
+            "trackingId": "OzU7IzsxMzEwMjAyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/8e/e9/8ee94a014221313c680d8d8c72e50486a3ec4a3f.jpg"
+          },
+          {
+            "articleId": "1310202002",
+            "url": "/es_es/productpage.1310202002.html",
+            "colorName": "Rosa claro/Lilo y Stitch",
+            "colorCode": "EDDCDA",
+            "trackingId": "OzU7IzsxMzEwMjAyMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzU7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/a0/ff/a0ff0335534983b16283a872771fead962f3eaea.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/00/b0/00b02206fec65bd9259fc7877f31c3fd706cba8e.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Rojo/Hello Kitty",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/8e/e9/8ee94a014221313c680d8d8c72e50486a3ec4a3f.jpg",
+        "colors": "8D1330",
+        "productImage": "https://image.hm.com/assets/hm/8e/e9/8ee94a014221313c680d8d8c72e50486a3ec4a3f.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": true,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "multi_000000|rojo_ff0000|blanco_ffffff",
+        "mainCatCode": "beauty_skincare_lipcare",
+        "sellingAttribute": "Nueva Colección"
+      },
+      {
+        "id": "1257318001",
+        "trackingId": "OzU7IzsxMjU3MzE4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Gloss de labios",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1257318001.html",
+        "showPriceMarker": false,
+        "comparativePrice": 854.29,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2.99,
+            "minPrice": 2.99,
+            "maxPrice": 2.99,
+            "formattedPrice": "2,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1257318001",
+            "url": "/es_es/productpage.1257318001.html",
+            "colorName": "Rojo",
+            "colorCode": "FD435A",
+            "trackingId": "OzU7IzsxMjU3MzE4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/66/be/66be50b534aa37ec1e5065e6b2a489df5fb0fa17.jpg"
+          },
+          {
+            "articleId": "1257318002",
+            "url": "/es_es/productpage.1257318002.html",
+            "colorName": "Rosa claro",
+            "colorCode": "DEAAC7",
+            "trackingId": "OzU7IzsxMjU3MzE4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/bf/01/bf01940822dc6ff2323e335988117f068c615ee5.jpg"
+          },
+          {
+            "articleId": "1257318003",
+            "url": "/es_es/productpage.1257318003.html",
+            "colorName": "Pink Holo",
+            "colorCode": "ECDBE9",
+            "trackingId": "OzU7IzsxMjU3MzE4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/3b/e8/3be8c478e9fcdd0f86494fae841731f2a3615699.jpg"
+          },
+          {
+            "articleId": "1257318005",
+            "url": "/es_es/productpage.1257318005.html",
+            "colorName": "Naranja",
+            "colorCode": "FEA479",
+            "trackingId": "OzU7IzsxMjU3MzE4MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/cb/c4/cbc480b1ed88a3c61a1b1f98fc6438957db89a92.jpg"
+          },
+          {
+            "articleId": "1257318004",
+            "url": "/es_es/productpage.1257318004.html",
+            "colorName": "Rosa",
+            "colorCode": "CC6DA7",
+            "trackingId": "OzU7IzsxMjU3MzE4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzY7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/50/7d/507dc5c2428f0ed9cca2b070cae9fd4435bdbe94.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/c6/3b/c63bdd363c955bfae528ba2dec34791599776109.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/c6/71/c671b1e37d4de6bc4944f2ece753516557311c1f.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Rojo",
+        "quantity": "3,5 ml",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/66/be/66be50b534aa37ec1e5065e6b2a489df5fb0fa17.jpg",
+        "colors": "FD435A",
+        "comparativeQuantity": "1 l",
+        "isMultipack": false,
+        "productImage": "https://image.hm.com/assets/hm/66/be/66be50b534aa37ec1e5065e6b2a489df5fb0fa17.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "rojo_ff0000",
+        "comparativeFormattedPrice": "854,29 €",
+        "mainCatCode": "beauty_makeup_lips_lipgloss"
+      },
+      {
+        "id": "1257378003",
+        "trackingId": "OzU7IzsxMjU3Mzc4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Aceite de labios",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1257378003.html",
+        "showPriceMarker": false,
+        "comparativePrice": 199.33,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 2.99,
+            "minPrice": 2.99,
+            "maxPrice": 2.99,
+            "formattedPrice": "2,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1257378003",
+            "url": "/es_es/productpage.1257378003.html",
+            "colorName": "Pink Cherry",
+            "colorCode": "F1678B",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDAzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/ff/a6/ffa6b1bcde4f5bbe18d0ea6849ba7083a41ad07d.jpg"
+          },
+          {
+            "articleId": "1257378010",
+            "url": "/es_es/productpage.1257378010.html",
+            "colorName": "Rojo vivo",
+            "colorCode": "9D0037",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDEwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/19/c1/19c1ffce6fa41b4b888bd78dcbe86b10f9c28892.jpg"
+          },
+          {
+            "articleId": "1257378004",
+            "url": "/es_es/productpage.1257378004.html",
+            "colorName": "Watermelon",
+            "colorCode": "E1A09F",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/38/ee/38eed913079279855c177aa154150c463fe13d5f.jpg"
+          },
+          {
+            "articleId": "1257378005",
+            "url": "/es_es/productpage.1257378005.html",
+            "colorName": "Lila",
+            "colorCode": "C7ACD2",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDA1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/68/0d/680d88fe604025990280861ab057914ae34ffad5.jpg"
+          },
+          {
+            "articleId": "1257378011",
+            "url": "/es_es/productpage.1257378011.html",
+            "colorName": "Naranja coral",
+            "colorCode": "CD8E7F",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDExOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/d5/67/d567fef47822888021b8d2049eed74ab93cfbfdf.jpg"
+          },
+          {
+            "articleId": "1257378002",
+            "url": "/es_es/productpage.1257378002.html",
+            "colorName": "Coconut",
+            "colorCode": "FFFFFF",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/5b/bc/5bbcd1edbcbbe5fefcff53ce5891025a6923bc23.jpg"
+          },
+          {
+            "articleId": "1257378007",
+            "url": "/es_es/productpage.1257378007.html",
+            "colorName": "Rojo",
+            "colorCode": "FC695D",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDA3OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/05/12/0512b684cc80397b1f53e67ec55a4822410beb79.jpg"
+          },
+          {
+            "articleId": "1257378006",
+            "url": "/es_es/productpage.1257378006.html",
+            "colorName": "Amarillo",
+            "colorCode": "F6E76F",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/68/08/6808006ad1e1f607b045664471d4ff1c0d205444.jpg"
+          },
+          {
+            "articleId": "1257378001",
+            "url": "/es_es/productpage.1257378001.html",
+            "colorName": "Grape",
+            "colorCode": "B39ECB",
+            "trackingId": "OzU7IzsxMjU3Mzc4MDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzc7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/9b/b9/9bb97c97b10dae84e3ba05b5693c5d47627c23ed.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/ec/df/ecdf5ea9c2014eeaf27e39a74ab55506ab767386.jpg"
+          },
+          {
+            "url": "https://image.hm.com/assets/hm/46/03/4603c0b7f0e9e70212229787678595c6586c10f4.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Pink Cherry",
+        "quantity": "15 ml",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/ff/a6/ffa6b1bcde4f5bbe18d0ea6849ba7083a41ad07d.jpg",
+        "colors": "F1678B",
+        "comparativeQuantity": "1 l",
+        "colourShades": "Rosa vivo|Rojo cereza|Rosa neón|Rosado",
+        "isMultipack": false,
+        "productImage": "https://image.hm.com/assets/hm/ff/a6/ffa6b1bcde4f5bbe18d0ea6849ba7083a41ad07d.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "rosa_ffc0cb",
+        "comparativeFormattedPrice": "199,33 €",
+        "mainCatCode": "beauty_makeup_lips_lipbalmcare"
+      },
+      {
+        "id": "1219782001",
+        "trackingId": "OzU7IzsxMjE5NzgyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Discos de algodón",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1219782001.html",
+        "showPriceMarker": false,
+        "comparativePrice": 0.03,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 1.99,
+            "minPrice": 1.99,
+            "maxPrice": 1.99,
+            "formattedPrice": "1,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1219782001",
+            "url": "/es_es/productpage.1219782001.html",
+            "colorName": "Blanco",
+            "colorCode": "FFFFFF",
+            "trackingId": "OzU7IzsxMjE5NzgyMDAxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzg7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/f9/be/f9be6d4aaf167393c81991181b06b8945c2c6528.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/87/91/87914dfc4b9ecdefea03e80126fbaf76e21fb766.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Blanco",
+        "quantity": "70",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/f9/be/f9be6d4aaf167393c81991181b06b8945c2c6528.jpg",
+        "colors": "FFFFFF",
+        "isMultipack": true,
+        "productImage": "https://image.hm.com/assets/hm/f9/be/f9be6d4aaf167393c81991181b06b8945c2c6528.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "blanco_ffffff",
+        "comparativeFormattedPrice": "0,03 €",
+        "mainCatCode": "home_bathshower_accessories_bathroomaccessories"
+      },
+      {
+        "id": "1257325004",
+        "trackingId": "OzU7IzsxMjU3MzI1MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+        "productName": "Mascarilla labial",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1257325004.html",
+        "showPriceMarker": false,
+        "comparativePrice": 374.38,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 5.99,
+            "minPrice": 5.99,
+            "maxPrice": 5.99,
+            "formattedPrice": "5,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1257325004",
+            "url": "/es_es/productpage.1257325004.html",
+            "colorName": "Lila/Grape",
+            "colorCode": "D588FF",
+            "trackingId": "OzU7IzsxMjU3MzI1MDA0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/d6/5f/d65f3e23485a8d4d0e5aaa2793101b5a2416903d.jpg"
+          },
+          {
+            "articleId": "1257325006",
+            "url": "/es_es/productpage.1257325006.html",
+            "colorName": "Amarillo claro",
+            "colorCode": "E0DA96",
+            "trackingId": "OzU7IzsxMjU3MzI1MDA2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzk7NDc7IzsjO3ZpZXctYWxsOw_e4",
+            "productImage": "https://image.hm.com/assets/hm/09/8a/098ab18fdc41d0f17b67ddae7268c33c55941917.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/bc/84/bc84d76a0dc6a7f43a4f712dfec1caab9c36fde1.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Lila/Grape",
+        "quantity": "16 g",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/d6/5f/d65f3e23485a8d4d0e5aaa2793101b5a2416903d.jpg",
+        "colors": "D588FF",
+        "comparativeQuantity": "1 kg",
+        "isMultipack": false,
+        "productImage": "https://image.hm.com/assets/hm/d6/5f/d65f3e23485a8d4d0e5aaa2793101b5a2416903d.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "lila_800080",
+        "comparativeFormattedPrice": "374,38 €",
+        "mainCatCode": "beauty_makeup_beautytreats"
+      },
+      {
+        "id": "1224480026",
+        "trackingId": "OzU7IzsxMjI0NDgwMDI2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+        "productName": "Esmalte de uñas",
+        "external": false,
+        "brandName": "H&M",
+        "url": "/es_es/productpage.1224480026.html",
+        "showPriceMarker": false,
+        "comparativePrice": 623.75,
+        "prices": [
+          {
+            "priceType": "whitePrice",
+            "price": 4.99,
+            "minPrice": 4.99,
+            "maxPrice": 4.99,
+            "formattedPrice": "4,99 €"
+          }
+        ],
+        "availability": {
+          "stockState": "Available",
+          "comingSoon": false
+        },
+        "swatches": [
+          {
+            "articleId": "1224480026",
+            "url": "/es_es/productpage.1224480026.html",
+            "colorName": "Velvet Cake",
+            "colorCode": "512529",
+            "trackingId": "OzU7IzsxMjI0NDgwMDI2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/79/01/790175895b20d4d5b7d603694d4a515715e6fb86.jpg"
+          },
+          {
+            "articleId": "1224480025",
+            "url": "/es_es/productpage.1224480025.html",
+            "colorName": "Brass Apples",
+            "colorCode": "6E1D29",
+            "trackingId": "OzU7IzsxMjI0NDgwMDI1OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/6b/0d/6b0de14f6ae2295e4c5beb8f3b2cf924429948e5.jpg"
+          },
+          {
+            "articleId": "1224480041",
+            "url": "/es_es/productpage.1224480041.html",
+            "colorName": "Unapologetic",
+            "colorCode": "742e2e",
+            "trackingId": "OzU7IzsxMjI0NDgwMDQxOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/cd/2a/cd2ad393fe4431c3d5d6c79bab7aac9d809115e4.jpg"
+          },
+          {
+            "articleId": "1224480030",
+            "url": "/es_es/productpage.1224480030.html",
+            "colorName": "Poppy Fields Forever",
+            "colorCode": "C61B27",
+            "trackingId": "OzU7IzsxMjI0NDgwMDMwOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/af/0e/af0e438a30aee65d1a25d14086a21af14a7bb073.jpg"
+          },
+          {
+            "articleId": "1224480023",
+            "url": "/es_es/productpage.1224480023.html",
+            "colorName": "Rhodium Runaway",
+            "colorCode": "663447",
+            "trackingId": "OzU7IzsxMjI0NDgwMDIzOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/e2/cc/e2cccec5d881098fd311def9eb98e3126e21fbb4.jpg"
+          },
+          {
+            "articleId": "1224480024",
+            "url": "/es_es/productpage.1224480024.html",
+            "colorName": "So Sizzling",
+            "colorCode": "D55231",
+            "trackingId": "OzU7IzsxMjI0NDgwMDI0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/aa/f3/aaf393f6e8e9c838d0c1b7c4f5bbe22cbc088d76.jpg"
+          },
+          {
+            "articleId": "1224480036",
+            "url": "/es_es/productpage.1224480036.html",
+            "colorName": "You Say Tomato",
+            "colorCode": "b00e1b",
+            "trackingId": "OzU7IzsxMjI0NDgwMDM2OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/7d/dd/7ddd2e882314eb563bd28fbd7f7ccefa1374b144.jpg"
+          },
+          {
+            "articleId": "1224480002",
+            "url": "/es_es/productpage.1224480002.html",
+            "colorName": "Cinnabar Gem",
+            "colorCode": "fc4861",
+            "trackingId": "OzU7IzsxMjI0NDgwMDAyOyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/a8/e9/a8e9da14cedb20da99bb6620dad70a92c179892b.jpg"
+          },
+          {
+            "articleId": "1224480044",
+            "url": "/es_es/productpage.1224480044.html",
+            "colorName": "Peak Status",
+            "colorCode": "d7b18c",
+            "trackingId": "OzU7IzsxMjI0NDgwMDQ0OyM7IzsvZmFzaGlvbi9NT0JJTEUvTEFORElOR19QQUdFL05BVklHQVRJT05fUkVTVUxUOyM7IztPQkpFQ1RJVkUkOzEwOzQ3OyM7Izt2aWV3LWFsbDs_e4",
+            "productImage": "https://image.hm.com/assets/hm/79/30/79303754c18622283dcb7a5ee513ed26145de2c7.jpg"
+          }
+        ],
+        "productMarkers": [],
+        "images": [
+          {
+            "url": "https://image.hm.com/assets/hm/9b/7f/9b7fe01122cb18e2cee7e2a55465ebe5aae81a18.jpg"
+          }
+        ],
+        "hasVideo": false,
+        "removed": false,
+        "colorName": "Velvet Cake",
+        "quantity": "8 ml",
+        "isPreShopping": false,
+        "isOnline": true,
+        "modelImage": "https://image.hm.com/assets/hm/79/01/790175895b20d4d5b7d603694d4a515715e6fb86.jpg",
+        "colors": "512529",
+        "comparativeQuantity": "1 l",
+        "colourShades": "Burdeos|Bermellón oscuro|Rojo oscuro|Rojo rubí",
+        "isMultipack": false,
+        "productImage": "https://image.hm.com/assets/hm/79/01/790175895b20d4d5b7d603694d4a515715e6fb86.jpg",
+        "sizes": [
+          {
+            "id": "001",
+            "label": "NOSIZE",
+            "stock": 2
+          }
+        ],
+        "newArrival": false,
+        "isLiquidPixelUrl": false,
+        "colorWithNames": "rojo_ff0000",
+        "comparativeFormattedPrice": "623,75 €",
+        "mainCatCode": "beauty_nails_nailpolish"
+      }
+    ],
+    "sortOptions": {
+      "selected": "RELEVANCE",
+      "options": [
+        {
+          "id": "RELEVANCE",
+          "label": "Relevancia"
+        },
+        {
+          "id": "NEWEST_FIRST",
+          "label": "Nuevo"
+        },
+        {
+          "id": "PRICE_ASCENDING",
+          "label": "Precio más bajo"
+        },
+        {
+          "id": "PRICE_DESCENDING",
+          "label": "Precio más alto"
+        }
+      ]
+    },
+    "numberOfHits": 1019,
+    "sliceRanges": [],
+    "facets": [
+      {
+        "name": "Precio",
+        "id": "priceRange",
+        "selectedCount": 0,
+        "type": "RANGE",
+        "min": 1.99,
+        "max": 149
+      },
+      {
+        "name": "ColorWithNames",
+        "id": "colorWithNames",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "amarillo_ffff00",
+            "name": "amarillo_ffff00",
+            "count": 26,
+            "selected": false
+          },
+          {
+            "id": "azul_0000ff",
+            "name": "azul_0000ff",
+            "count": 35,
+            "selected": false
+          },
+          {
+            "id": "beige_f5f5dc",
+            "name": "beige_f5f5dc",
+            "count": 109,
+            "selected": false
+          },
+          {
+            "id": "blanco_ffffff",
+            "name": "blanco_ffffff",
+            "count": 46,
+            "selected": false
+          },
+          {
+            "id": "bronce_cd7f32",
+            "name": "bronce_cd7f32",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "gris_808080",
+            "name": "gris_808080",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "lila_800080",
+            "name": "lila_800080",
+            "count": 59,
+            "selected": false
+          },
+          {
+            "id": "marrón_a52a2a",
+            "name": "marrón_a52a2a",
+            "count": 56,
+            "selected": false
+          },
+          {
+            "id": "multi_000000",
+            "name": "multi_000000",
+            "count": 39,
+            "selected": false
+          },
+          {
+            "id": "naranja_ffa500",
+            "name": "naranja_ffa500",
+            "count": 59,
+            "selected": false
+          },
+          {
+            "id": "negro_000000",
+            "name": "negro_000000",
+            "count": 71,
+            "selected": false
+          },
+          {
+            "id": "rojo_ff0000",
+            "name": "rojo_ff0000",
+            "count": 108,
+            "selected": false
+          },
+          {
+            "id": "rosa_ffc0cb",
+            "name": "rosa_ffc0cb",
+            "count": 351,
+            "selected": false
+          },
+          {
+            "id": "transparente_ffffff",
+            "name": "transparente_ffffff",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "turquesa_40e0d0",
+            "name": "turquesa_40e0d0",
+            "count": 21,
+            "selected": false
+          },
+          {
+            "id": "verde_008000",
+            "name": "verde_008000",
+            "count": 41,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Talla",
+        "id": "sizes",
+        "selectedCount": 0,
+        "type": "SIZE",
+        "groups": [
+          {
+            "name": "homewear",
+            "facetValues": [
+              {
+                "id": "homewear;NO_FORMAT[unknown];15x20",
+                "name": "15x20",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "homewear;NO_FORMAT[unknown];56x23",
+                "name": "56x23",
+                "count": 1,
+                "selected": false
+              },
+              {
+                "id": "homewear;NO_FORMAT[unknown];80x230",
+                "name": "80x230",
+                "count": 1,
+                "selected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Materials",
+        "id": "materials",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Acero inoxidable",
+            "name": "Acero inoxidable",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Algodón",
+            "name": "Algodón",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Borreguito",
+            "name": "Borreguito",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Lana",
+            "name": "Lana",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Lona",
+            "name": "Lona",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Material PU",
+            "name": "Material PU",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Metal",
+            "name": "Metal",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Microfibra",
+            "name": "Microfibra",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Muselina",
+            "name": "Muselina",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sarga",
+            "name": "Sarga",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Satén",
+            "name": "Satén",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Seda",
+            "name": "Seda",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Velour",
+            "name": "Velour",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Patterns",
+        "id": "patterns",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Estampado",
+            "name": "Estampado",
+            "count": 15,
+            "selected": false
+          },
+          {
+            "id": "Estampado de carey",
+            "name": "Estampado de carey",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Estampado de cocodrilo",
+            "name": "Estampado de cocodrilo",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Estampado de leopardo",
+            "name": "Estampado de leopardo",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Estampado de tigre",
+            "name": "Estampado de tigre",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Jaspeado",
+            "name": "Jaspeado",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Liso",
+            "name": "Liso",
+            "count": 250,
+            "selected": false
+          },
+          {
+            "id": "Lunares",
+            "name": "Lunares",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Rayas",
+            "name": "Rayas",
+            "count": 4,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Marca",
+        "id": "brandNames",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "& Other Stories",
+            "name": "& Other Stories",
+            "count": 37,
+            "selected": false
+          },
+          {
+            "id": "ARKET",
+            "name": "ARKET",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Flair Rugs",
+            "name": "Flair Rugs",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "H&M",
+            "name": "H&M",
+            "count": 963,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Coverages",
+        "id": "coverages",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Cobertura completa",
+            "name": "Cobertura completa",
+            "count": 130,
+            "selected": false
+          },
+          {
+            "id": "Cobertura ligera",
+            "name": "Cobertura ligera",
+            "count": 71,
+            "selected": false
+          },
+          {
+            "id": "Cobertura media",
+            "name": "Cobertura media",
+            "count": 97,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Finishes",
+        "id": "finishes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Acabado brillante",
+            "name": "Acabado brillante",
+            "count": 139,
+            "selected": false
+          },
+          {
+            "id": "Acabado efecto húmedo",
+            "name": "Acabado efecto húmedo",
+            "count": 21,
+            "selected": false
+          },
+          {
+            "id": "Acabado mate",
+            "name": "Acabado mate",
+            "count": 23,
+            "selected": false
+          },
+          {
+            "id": "Acabado natural",
+            "name": "Acabado natural",
+            "count": 127,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "SkinTones",
+        "id": "skinTones",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Tono de piel claro",
+            "name": "Tono de piel claro",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Tono de piel medio",
+            "name": "Tono de piel medio",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Tono de piel muy claro",
+            "name": "Tono de piel muy claro",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Tono de piel oscuro",
+            "name": "Tono de piel oscuro",
+            "count": 7,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "SkinTypes",
+        "id": "skinTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Piel delicada",
+            "name": "Piel delicada",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Piel grasa",
+            "name": "Piel grasa",
+            "count": 120,
+            "selected": false
+          },
+          {
+            "id": "Piel madura",
+            "name": "Piel madura",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "Piel mixta",
+            "name": "Piel mixta",
+            "count": 120,
+            "selected": false
+          },
+          {
+            "id": "Piel normal",
+            "name": "Piel normal",
+            "count": 120,
+            "selected": false
+          },
+          {
+            "id": "Piel seca",
+            "name": "Piel seca",
+            "count": 48,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "HairTypes",
+        "id": "hairTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Cabello fino",
+            "name": "Cabello fino",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cabello graso",
+            "name": "Cabello graso",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cabello grueso",
+            "name": "Cabello grueso",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cabello liso",
+            "name": "Cabello liso",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cabello normal",
+            "name": "Cabello normal",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cabello ondulado",
+            "name": "Cabello ondulado",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cabello rizado",
+            "name": "Cabello rizado",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cabello seco",
+            "name": "Cabello seco",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cabello teñido",
+            "name": "Cabello teñido",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "FragranceFamilies",
+        "id": "fragranceFamilies",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Amaderada",
+            "name": "Amaderada",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Especiada",
+            "name": "Especiada",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Floral",
+            "name": "Floral",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Fresca",
+            "name": "Fresca",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Frutal",
+            "name": "Frutal",
+            "count": 14,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Benefits",
+        "id": "benefits",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "A prueba de manchas",
+            "name": "A prueba de manchas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Absorbente de aceite",
+            "name": "Absorbente de aceite",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Alargador",
+            "name": "Alargador",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Antiencrespamiento",
+            "name": "Antiencrespamiento",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Blanqueador",
+            "name": "Blanqueador",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Cobertura regulable",
+            "name": "Cobertura regulable",
+            "count": 134,
+            "selected": false
+          },
+          {
+            "id": "Duradero",
+            "name": "Duradero",
+            "count": 71,
+            "selected": false
+          },
+          {
+            "id": "Efecto alisador",
+            "name": "Efecto alisador",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Efecto glow",
+            "name": "Efecto glow",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Efecto volumen",
+            "name": "Efecto volumen",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Fijación fuerte",
+            "name": "Fijación fuerte",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Hidratante",
+            "name": "Hidratante",
+            "count": 42,
+            "selected": false
+          },
+          {
+            "id": "Limpiador",
+            "name": "Limpiador",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Nutriente",
+            "name": "Nutriente",
+            "count": 34,
+            "selected": false
+          },
+          {
+            "id": "Reflectante de la luz",
+            "name": "Reflectante de la luz",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Rehidratante",
+            "name": "Rehidratante",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Resistente al agua",
+            "name": "Resistente al agua",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Suavizante",
+            "name": "Suavizante",
+            "count": 54,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Concerns",
+        "id": "concerns",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Decoloración",
+            "name": "Decoloración",
+            "count": 60,
+            "selected": false
+          },
+          {
+            "id": "Encrespamiento",
+            "name": "Encrespamiento",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Manchas",
+            "name": "Manchas",
+            "count": 60,
+            "selected": false
+          },
+          {
+            "id": "Ojeras",
+            "name": "Ojeras",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Piel cansada",
+            "name": "Piel cansada",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Rojeces",
+            "name": "Rojeces",
+            "count": 60,
+            "selected": false
+          },
+          {
+            "id": "Sequedad",
+            "name": "Sequedad",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Tono de piel desigual",
+            "name": "Tono de piel desigual",
+            "count": 63,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Forms",
+        "id": "forms",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Aceite",
+            "name": "Aceite",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "Bálsamo",
+            "name": "Bálsamo",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Cera",
+            "name": "Cera",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Crema",
+            "name": "Crema",
+            "count": 42,
+            "selected": false
+          },
+          {
+            "id": "Discos",
+            "name": "Discos",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Gel",
+            "name": "Gel",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Líquido",
+            "name": "Líquido",
+            "count": 294,
+            "selected": false
+          },
+          {
+            "id": "Loción",
+            "name": "Loción",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Polvos compactos",
+            "name": "Polvos compactos",
+            "count": 41,
+            "selected": false
+          },
+          {
+            "id": "Polvos sueltos",
+            "name": "Polvos sueltos",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Sólido",
+            "name": "Sólido",
+            "count": 47,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "KeyIngredients",
+        "id": "keyIngredients",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Ácido hialurónico (AH)",
+            "name": "Ácido hialurónico (AH)",
+            "count": 83,
+            "selected": false
+          },
+          {
+            "id": "Escualano",
+            "name": "Escualano",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Manteca de karité",
+            "name": "Manteca de karité",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Péptido puro",
+            "name": "Péptido puro",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Vitamina E",
+            "name": "Vitamina E",
+            "count": 25,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ProductTypes",
+        "id": "productTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Aceite labial",
+            "name": "Aceite labial",
+            "count": 37,
+            "selected": false
+          },
+          {
+            "id": "Adorno facial",
+            "name": "Adorno facial",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Adorno para el pelo",
+            "name": "Adorno para el pelo",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Adorno para maleta",
+            "name": "Adorno para maleta",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Adornos para uñas",
+            "name": "Adornos para uñas",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Agarre para móvil",
+            "name": "Agarre para móvil",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Alfombra",
+            "name": "Alfombra",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Almohadilla para limpieza facial",
+            "name": "Almohadilla para limpieza facial",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Anillo",
+            "name": "Anillo",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Aplicador",
+            "name": "Aplicador",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Aplicador para autobronceador",
+            "name": "Aplicador para autobronceador",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Bálsamo labial",
+            "name": "Bálsamo labial",
+            "count": 15,
+            "selected": false
+          },
+          {
+            "id": "Barra de labios",
+            "name": "Barra de labios",
+            "count": 51,
+            "selected": false
+          },
+          {
+            "id": "Base de maquillaje",
+            "name": "Base de maquillaje",
+            "count": 48,
+            "selected": false
+          },
+          {
+            "id": "Bisutería para móvil",
+            "name": "Bisutería para móvil",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Bomba de baño",
+            "name": "Bomba de baño",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Botella de agua",
+            "name": "Botella de agua",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Brillo labial",
+            "name": "Brillo labial",
+            "count": 53,
+            "selected": false
+          },
+          {
+            "id": "Brocha de maquillaje",
+            "name": "Brocha de maquillaje",
+            "count": 36,
+            "selected": false
+          },
+          {
+            "id": "Bronceador",
+            "name": "Bronceador",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Bruma corporal",
+            "name": "Bruma corporal",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Calendario de Adviento",
+            "name": "Calendario de Adviento",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Capa protectora",
+            "name": "Capa protectora",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Cepillo de pelo",
+            "name": "Cepillo de pelo",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Cepillo limpiador facial",
+            "name": "Cepillo limpiador facial",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Cepillo masajeador para el cuero cabelludo",
+            "name": "Cepillo masajeador para el cuero cabelludo",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Cera para cejas",
+            "name": "Cera para cejas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cera para el cabello",
+            "name": "Cera para el cabello",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Champú seco",
+            "name": "Champú seco",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Clips de peluquería",
+            "name": "Clips de peluquería",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Color de labios",
+            "name": "Color de labios",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Colorete",
+            "name": "Colorete",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Corrector",
+            "name": "Corrector",
+            "count": 28,
+            "selected": false
+          },
+          {
+            "id": "Cortacutículas",
+            "name": "Cortacutículas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Cortauñas",
+            "name": "Cortauñas",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Crema corporal",
+            "name": "Crema corporal",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Crema estilizadora",
+            "name": "Crema estilizadora",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Crema para manos",
+            "name": "Crema para manos",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Cuchilla de cejas",
+            "name": "Cuchilla de cejas",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Diadema de maquillaje",
+            "name": "Diadema de maquillaje",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Eau de parfum",
+            "name": "Eau de parfum",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Eau de toilette",
+            "name": "Eau de toilette",
+            "count": 25,
+            "selected": false
+          },
+          {
+            "id": "Empujacutículas",
+            "name": "Empujacutículas",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Espátula cosmética",
+            "name": "Espátula cosmética",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Espejo de maquillaje",
+            "name": "Espejo de maquillaje",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Esponja de baño",
+            "name": "Esponja de baño",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Esponja de maquillaje",
+            "name": "Esponja de maquillaje",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Esponja limpiadora facial",
+            "name": "Esponja limpiadora facial",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Exfoliante corporal",
+            "name": "Exfoliante corporal",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Exfoliante labial",
+            "name": "Exfoliante labial",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Gel de ducha",
+            "name": "Gel de ducha",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Gel para cejas",
+            "name": "Gel para cejas",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Goma de pelo",
+            "name": "Goma de pelo",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Gorro de dormir",
+            "name": "Gorro de dormir",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Guante de baño",
+            "name": "Guante de baño",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Herramienta de masaje",
+            "name": "Herramienta de masaje",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Horquilla",
+            "name": "Horquilla",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Iluminador de maquillaje",
+            "name": "Iluminador de maquillaje",
+            "count": 24,
+            "selected": false
+          },
+          {
+            "id": "Jabón",
+            "name": "Jabón",
+            "count": 10,
+            "selected": false
+          },
+          {
+            "id": "Laca de uñas",
+            "name": "Laca de uñas",
+            "count": 208,
+            "selected": false
+          },
+          {
+            "id": "Lápiz de cejas",
+            "name": "Lápiz de cejas",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Lápiz de labios",
+            "name": "Lápiz de labios",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Lápiz de ojos",
+            "name": "Lápiz de ojos",
+            "count": 22,
+            "selected": false
+          },
+          {
+            "id": "Lápiz delineador",
+            "name": "Lápiz delineador",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Lima de uñas",
+            "name": "Lima de uñas",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Limpiador de brochas",
+            "name": "Limpiador de brochas",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Llavero",
+            "name": "Llavero",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Loción corporal",
+            "name": "Loción corporal",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Maquineta de maquillaje",
+            "name": "Maquineta de maquillaje",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Máscara",
+            "name": "Máscara",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Máscara de ojos",
+            "name": "Máscara de ojos",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Máscara para cejas",
+            "name": "Máscara para cejas",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Mascarilla labial",
+            "name": "Mascarilla labial",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Muñequera de maquillaje",
+            "name": "Muñequera de maquillaje",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Neceser",
+            "name": "Neceser",
+            "count": 35,
+            "selected": false
+          },
+          {
+            "id": "Neceser de maquillaje",
+            "name": "Neceser de maquillaje",
+            "count": 41,
+            "selected": false
+          },
+          {
+            "id": "Peine",
+            "name": "Peine",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Perfume",
+            "name": "Perfume",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Perfume para cabello",
+            "name": "Perfume para cabello",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Pestañas postizas",
+            "name": "Pestañas postizas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Piedra de masaje",
+            "name": "Piedra de masaje",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pincel para decorar uñas",
+            "name": "Pincel para decorar uñas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Pinza de pelo",
+            "name": "Pinza de pelo",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Pinzas",
+            "name": "Pinzas",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Polvos",
+            "name": "Polvos",
+            "count": 16,
+            "selected": false
+          },
+          {
+            "id": "Portalabial",
+            "name": "Portalabial",
+            "count": 5,
+            "selected": false
+          },
+          {
+            "id": "Prebase facial",
+            "name": "Prebase facial",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Producto de contorno",
+            "name": "Producto de contorno",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Punzón para uñas",
+            "name": "Punzón para uñas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Purpurina cosmética",
+            "name": "Purpurina cosmética",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Quitaesmalte",
+            "name": "Quitaesmalte",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Rizador de pestañas",
+            "name": "Rizador de pestañas",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Rodillo facial",
+            "name": "Rodillo facial",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Rulos",
+            "name": "Rulos",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Sales de baño",
+            "name": "Sales de baño",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sin enjuague",
+            "name": "Sin enjuague",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Sombra de ojos",
+            "name": "Sombra de ojos",
+            "count": 27,
+            "selected": false
+          },
+          {
+            "id": "Spray para el cabello",
+            "name": "Spray para el cabello",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Taco pulidor de uñas",
+            "name": "Taco pulidor de uñas",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Tijeras",
+            "name": "Tijeras",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Toalla",
+            "name": "Toalla",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Toalla de pelo",
+            "name": "Toalla de pelo",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Toalla desmaquillante",
+            "name": "Toalla desmaquillante",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Uñas postizas",
+            "name": "Uñas postizas",
+            "count": 49,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "CustomerGroups",
+        "id": "customerGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Hombre",
+            "name": "Hombre",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Mujer",
+            "name": "Mujer",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Niña",
+            "name": "Niña",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Niño",
+            "name": "Niño",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Qualities",
+        "id": "qualities",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M Premium Selection",
+            "name": "H&M Premium Selection",
+            "count": 21,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Occasions",
+        "id": "occasions",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Halloween",
+            "name": "Halloween",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Navidad",
+            "name": "Navidad",
+            "count": 52,
+            "selected": false
+          },
+          {
+            "id": "San Valentín",
+            "name": "San Valentín",
+            "count": 22,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AssortmentTypes",
+        "id": "assortmentTypes",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Accesorios",
+            "name": "Accesorios",
+            "count": 20,
+            "selected": false
+          },
+          {
+            "id": "Cuidado personal",
+            "name": "Cuidado personal",
+            "count": 997,
+            "selected": false
+          },
+          {
+            "id": "Hogar",
+            "name": "Hogar",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AgeGroups",
+        "id": "ageGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Adulto",
+            "name": "Adulto",
+            "count": 37,
+            "selected": false
+          },
+          {
+            "id": "Bebé",
+            "name": "Bebé",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Niños pequeños",
+            "name": "Niños pequeños",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Recién nacido",
+            "name": "Recién nacido",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "FilterCategories",
+        "id": "filterCategories",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Accesorios",
+            "name": "Accesorios",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Baño y ducha",
+            "name": "Baño y ducha",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Cuidado de la piel",
+            "name": "Cuidado de la piel",
+            "count": 136,
+            "selected": false
+          },
+          {
+            "id": "Cuidado del cabello",
+            "name": "Cuidado del cabello",
+            "count": 51,
+            "selected": false
+          },
+          {
+            "id": "Decoración",
+            "name": "Decoración",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Deporte",
+            "name": "Deporte",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Estuches y neceseres de maquillaje",
+            "name": "Estuches y neceseres de maquillaje",
+            "count": 76,
+            "selected": false
+          },
+          {
+            "id": "Fragancia",
+            "name": "Fragancia",
+            "count": 46,
+            "selected": false
+          },
+          {
+            "id": "Maquillaje",
+            "name": "Maquillaje",
+            "count": 442,
+            "selected": false
+          },
+          {
+            "id": "Ropa de cama y mantas",
+            "name": "Ropa de cama y mantas",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Sets de belleza",
+            "name": "Sets de belleza",
+            "count": 30,
+            "selected": false
+          },
+          {
+            "id": "Tallas pequeñas",
+            "name": "Tallas pequeñas",
+            "count": 15,
+            "selected": false
+          },
+          {
+            "id": "Textiles de interior",
+            "name": "Textiles de interior",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Uñas",
+            "name": "Uñas",
+            "count": 277,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "AccessoriesStyles",
+        "id": "accessoriesStyles",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Scrunchie",
+            "name": "Scrunchie",
+            "count": 6,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Concepts",
+        "id": "concepts",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M BEAUTY",
+            "name": "H&M BEAUTY",
+            "count": 944,
+            "selected": false
+          },
+          {
+            "id": "H&M Move",
+            "name": "H&M Move",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Collection",
+        "id": "collection",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "H&M x Wicked",
+            "name": "H&M x Wicked",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "Trendings",
+        "id": "trendings",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Bordado",
+            "name": "Bordado",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Brillante",
+            "name": "Brillante",
+            "count": 32,
+            "selected": false
+          },
+          {
+            "id": "Brillo",
+            "name": "Brillo",
+            "count": 79,
+            "selected": false
+          },
+          {
+            "id": "Charol",
+            "name": "Charol",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Colores pastel",
+            "name": "Colores pastel",
+            "count": 52,
+            "selected": false
+          },
+          {
+            "id": "Cromo",
+            "name": "Cromo",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Estampado",
+            "name": "Estampado",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Estampado animal",
+            "name": "Estampado animal",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Estampado de fruta",
+            "name": "Estampado de fruta",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Guateado",
+            "name": "Guateado",
+            "count": 25,
+            "selected": false
+          },
+          {
+            "id": "Holográfico",
+            "name": "Holográfico",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Jelly",
+            "name": "Jelly",
+            "count": 14,
+            "selected": false
+          },
+          {
+            "id": "Lazos",
+            "name": "Lazos",
+            "count": 13,
+            "selected": false
+          },
+          {
+            "id": "Metalizado",
+            "name": "Metalizado",
+            "count": 11,
+            "selected": false
+          },
+          {
+            "id": "Neón",
+            "name": "Neón",
+            "count": 7,
+            "selected": false
+          },
+          {
+            "id": "Ombre",
+            "name": "Ombre",
+            "count": 9,
+            "selected": false
+          },
+          {
+            "id": "Pelo sintético",
+            "name": "Pelo sintético",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Perlas",
+            "name": "Perlas",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Pompones",
+            "name": "Pompones",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Strass",
+            "name": "Strass",
+            "count": 3,
+            "selected": false
+          },
+          {
+            "id": "Tachuelas",
+            "name": "Tachuelas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Transparente",
+            "name": "Transparente",
+            "count": 10,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "ProductGroups",
+        "id": "productGroups",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Accesorios de deporte",
+            "name": "Accesorios de deporte",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Accesorios de viaje",
+            "name": "Accesorios de viaje",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Accesorios para el pelo",
+            "name": "Accesorios para el pelo",
+            "count": 42,
+            "selected": false
+          },
+          {
+            "id": "Accesorios tecnológicos",
+            "name": "Accesorios tecnológicos",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Alfombras",
+            "name": "Alfombras",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Baño",
+            "name": "Baño",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Bisutería",
+            "name": "Bisutería",
+            "count": 4,
+            "selected": false
+          },
+          {
+            "id": "Bolsos",
+            "name": "Bolsos",
+            "count": 79,
+            "selected": false
+          },
+          {
+            "id": "Cuidado corporal",
+            "name": "Cuidado corporal",
+            "count": 40,
+            "selected": false
+          },
+          {
+            "id": "Cuidado de uñas",
+            "name": "Cuidado de uñas",
+            "count": 275,
+            "selected": false
+          },
+          {
+            "id": "Cuidado facial",
+            "name": "Cuidado facial",
+            "count": 47,
+            "selected": false
+          },
+          {
+            "id": "Cuidado para el pelo",
+            "name": "Cuidado para el pelo",
+            "count": 33,
+            "selected": false
+          },
+          {
+            "id": "Depilación",
+            "name": "Depilación",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "Ducha",
+            "name": "Ducha",
+            "count": 18,
+            "selected": false
+          },
+          {
+            "id": "Estilismo para cejas",
+            "name": "Estilismo para cejas",
+            "count": 28,
+            "selected": false
+          },
+          {
+            "id": "Estilismo para el cabello",
+            "name": "Estilismo para el cabello",
+            "count": 8,
+            "selected": false
+          },
+          {
+            "id": "Fragancias",
+            "name": "Fragancias",
+            "count": 44,
+            "selected": false
+          },
+          {
+            "id": "Herramientas de cuidado de la piel",
+            "name": "Herramientas de cuidado de la piel",
+            "count": 45,
+            "selected": false
+          },
+          {
+            "id": "Herramientas de maquillaje",
+            "name": "Herramientas de maquillaje",
+            "count": 68,
+            "selected": false
+          },
+          {
+            "id": "Herramientas de peinado",
+            "name": "Herramientas de peinado",
+            "count": 12,
+            "selected": false
+          },
+          {
+            "id": "Higiene",
+            "name": "Higiene",
+            "count": 17,
+            "selected": false
+          },
+          {
+            "id": "Maquillaje",
+            "name": "Maquillaje",
+            "count": 377,
+            "selected": false
+          },
+          {
+            "id": "Textiles",
+            "name": "Textiles",
+            "count": 1,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "LicenseCompanies",
+        "id": "licenseCompanies",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Disney",
+            "name": "Disney",
+            "count": 3,
+            "selected": false
+          }
+        ]
+      },
+      {
+        "name": "LicenseItems",
+        "id": "licenseItems",
+        "selectedCount": 0,
+        "type": "TEXT",
+        "filterValues": [
+          {
+            "id": "Chupa Chups",
+            "name": "Chupa Chups",
+            "count": 6,
+            "selected": false
+          },
+          {
+            "id": "El Grinch",
+            "name": "El Grinch",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Frozen",
+            "name": "Frozen",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Hello Kitty",
+            "name": "Hello Kitty",
+            "count": 2,
+            "selected": false
+          },
+          {
+            "id": "Las supernenas",
+            "name": "Las supernenas",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Lilo y Stitch",
+            "name": "Lilo y Stitch",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Minnie Mouse",
+            "name": "Minnie Mouse",
+            "count": 1,
+            "selected": false
+          },
+          {
+            "id": "Wicked",
+            "name": "Wicked",
+            "count": 2,
+            "selected": false
+          }
+        ]
+      }
+    ]
+  }
+}
