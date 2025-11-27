@@ -38,7 +38,7 @@ genresSelect.addEventListener("change", async (event) => {
       booksSelect.appendChild(option);
     });
   } catch (error) {
-    console.error(new Error(error));
+    console.error(error);
   }
 });
 
