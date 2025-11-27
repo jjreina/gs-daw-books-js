@@ -19,7 +19,7 @@ const fecthGenres = async () => {
       genresSelect.appendChild(option);
     });
   } catch (error) {
-    console.error(new Error(error));
+    console.error(error);
   }
 };
 
